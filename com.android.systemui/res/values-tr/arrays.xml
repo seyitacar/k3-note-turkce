@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_style_list">
+        <item>Grafik stili</item>
+        <item>Basamak stili</item>
+    </string-array>
+</resources>

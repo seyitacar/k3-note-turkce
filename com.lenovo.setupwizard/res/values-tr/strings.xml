@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="accept">Kabul et</string>
+     <string name="access_desktop">Direct access to the desktop</string>
+     <string name="account_btn_title_othernum">E-mail Login</string>
+     <string name="account_btn_title_phonenum">Phone number login</string>
+     <string name="account_message">A single Lenovo account for all Levovo apps!</string>
+     <string name="account_text_register">register</string>
+     <string name="account_title">Lenovo ID</string>
+     <string name="action_do_not_use_network">action_do_not_use_network</string>
+     <string name="action_use_network"></string>
+     <string name="activation_failure_text">"Bir dakika sonra tekrar deneyin veya bu durum devam ederse telefonunuzu yeniden başlatın.
+
+Bu adımı şimdi atlamayı tercih ederseniz Sistem ayarlarından daha sonra etkinleştirmeyi unutmayın. Bu ayar etkinleştirilene kadar telefonunuz hücresel veri bağlantısı kuramaz."</string>
+     <string name="activation_failure_title">Etkinleştirilemedi</string>
+     <string name="activation_progress_gen">Bu işlem 5 dakika sürebilir</string>
+     <string name="activation_skip_text">"Etkinleştirmeyi atlarsanız daha sonra Ayarlar'dan etkinleştirmeyi unutmayın. Etkinleştirilene kadar telefonunuzun hücresel veri bağlantısı olmayacaktır."</string>
+     <string name="activation_title">Hücresel ağ hizmeti etkinleştiriliyor…</string>
+     <string name="android_beam_disabled_summary">无法使用，因为NFC已关闭</string>
+     <string name="android_beam_explained">开启此功能后，您只需将自己的设备与另一台支持NFC的设备靠在一起，即可将您设备上的应用内容同步分享给对方。例如，您可以发送网页、YouTube视频、联系人等等。
+
+您只需将设备靠在一起（通常是背靠背）然后触摸屏幕即可，所分享的内容由相应的应用确定。</string>
+     <string name="android_beam_label">Android Beam</string>
+     <string name="android_beam_off_summary">关闭</string>
+     <string name="android_beam_on_summary">已准备好通过NFC传输应用内容</string>
+     <string name="android_beam_settings_title">Android Beam</string>
+     <string name="apn_list_category_title">清單</string>
+     <string name="app_name">Setup Wizard</string>
+     <string name="app_title_license">LİSANS SÖZLEŞMESİ</string>
+     <string name="backup_lock_settings_picker_title">Yedek kilidi seçin</string>
+     <string name="cancel">Cancel</string>
+     <string name="complete_later_on">Later on</string>
+     <string name="complete_message">Congratulations!</string>
+     <string name="complete_set_fingerprint">Set Fingerprint</string>
+     <string name="complete_summary">Önyükleme yapılandırmasını tamamladınız, yeni mobil cihazınızı kullanmaya başlayabilirsiniz!</string>
+     <string name="complete_title">Setup is complete</string>
+     <string name="config_list_label">Configured networks</string>
+     <string name="data_conn_category_title">行動網路</string>
+     <string name="data_enabler_summary">啟用行動網路資料存取</string>
+     <string name="data_enabler_title">資料啟用</string>
+     <string name="data_enabler_waiting_message">請稍候…</string>
+     <string name="date_and_time">Tarih ve saat ayarları</string>
+     <string name="date_and_time_settings_title">Tarih ve saat</string>
+     <string name="date_time_24hour">24 saat biçimini kullan</string>
+     <string name="date_time_auto">Otomatik tarih ve saat</string>
+     <string name="date_time_auto_summaryOff">Ağ tarafından sağlanan saati kullan</string>
+     <string name="date_time_auto_summaryOn">Ağ tarafından sağlanan saati kullan</string>
+     <string name="date_time_date_format">Tarih biçimi seçin</string>
+     <string name="date_time_set_date">Tarihi ayarlayın</string>
+     <string name="date_time_set_time">Saati ayarlayın</string>
+     <string name="date_time_set_timezone">Saat dilimi seçin</string>
+     <string name="default_date_format">AA/gg/yyyy</string>
+     <string name="dont_skip_button_label">Atlama</string>
+     <string name="exp_color_text1">Recent</string>
+     <string name="exp_color_text2">Customization</string>
+     <string name="finish">Finish</string>
+     <string name="finish_button_label">Son</string>
+     <string name="help_label">Yardım</string>
+     <string name="lenovo_license_agree">Agree</string>
+     <string name="lenovo_license_content">This Lenovo License Agreement (the "Agreement") applies to each Lenovo Software Product that You acquire, whether it is preinstalled on or included with a Lenovo hardware product, acquired separately, or downloaded by You from a Lenovo Web site or a third-party Web site approved by Lenovo. It also applies to any updates or patches to these Software Products.
+
+Lenovo will license the Software Product to You only if You accept this Agreement. You agree to the terms of this Agreement by clicking to accept it or by installing, downloading, or using the Software Product.
+
+If You do not agree to these terms, do not install, download, or use the Software Product(s).
+• If You acquired the Software Product(s) and paid a license fee, return the Software Product to the party from whom You acquired it to obtain a refund or a credit of the amount You paid.
+• If You acquired the Software Product(s) preinstalled on or provided with a Lenovo hardware product, You may continue to use the hardware product, but not the Software Product(s) covered under this Agreement.
+
+<b>"Software Product"</b> includes mobile device software programs (whether preinstalled or provided separately) and related licensed materials such as documentation.
+<b>"You"</b> and <b>"Your"</b> refer either to an individual person or to a single legal entity.
+<b>1. Entitlement</b>
+You must maintain Your original dated sales transaction document, such as a receipt, invoice or similar document, as Your proof of Your right to use the Software Product. The transaction document specifies the usage level acquired. If no usage level is specified, You may install and use a single copy of the Software Product on a single hardware product. Your transaction document also provides evidence of Your eligibility for future upgrades, if any. For Software Products preinstalled on, included with, or distributed at no charge for use on a Lenovo hardware product, Your hardware product sales transaction document is also the proof of Your right to use the Software Product.
+<b>2. License</b>
+The Software Product is owned by Lenovo or a Lenovo supplier, and is copyrighted and licensed, not sold. Lenovo grants You a nonexclusive license to use the Software Product when You lawfully acquire it.
+You may a) use the Software Product up to the level of use specified in Your transaction document and b) make and install copies, including a backup copy, to support such use. The terms of this Agreement apply to each copy You make. You may not remove or alter any copyright notices or legends of ownership.
+If You acquire the Software Product as a program upgrade, after You install the upgrade You may not use the Software Product from which You upgraded or transfer it to another party.
+You will ensure that anyone who uses the Software Product (accessed either locally or remotely) does so only for Your authorized use and complies with the terms of this Agreement.
+You may not a) use, copy, modify, or distribute the Software Product except as provided in this Agreement; b) reverse assemble, reverse compile, or otherwise translate the Software Product except as specifically permitted by law without the possibility of contractual waiver; or 3) sublicense, rent, or lease the Software Product.
+Lenovo may terminate Your license if You fail to comply with the terms of this Agreement. If Lenovo does so, You must destroy all copies of the Software Product.
+Lenovo uses the System Update program to update Software Products on your computer. By default, critical updates are downloaded and installed automatically. Updates are classified as critical when they are needed for the computer to function properly. Failure to install critical updates could result in data corruption or loss, a major system malfunction, or a hardware failure. For example, critical updates could include an update to the hard-disk-drive firmware, a BIOS upgrade, a device-driver fix, or a fix for the operating system or other preinstalled software. You can disable this automatic feature by changing the settings of the System Update program at any time.
+<b>3. Transferability</b>
+You may not transfer or assign the Software Product to any other party, except as permitted in this section.
+Preinstalled Software Products are licensed for use only on the Lenovo hardware product on which they are preinstalled or included with and may be transferred only with that Lenovo hardware product. They may not be transferred independent of the Lenovo hardware product.
+<b>4. Third Party Software Products</b>
+Certain third party software products may be included with, or downloaded to this mobile device. Third Party Software Products provided by Lenovo may be governed by the terms of this Agreement but are usually licensed by the Third Party under its own terms and conditions. Third Party Software Products that are not licensed by Lenovo are subject solely to the terms of their accompanying license agreements. Third Party Software Products may collect your information. Make sure you read those license agreements before using third Party Software Products.
+<b>5. Software Product Specifications</b>
+The Software Product specifications and specified operating environment information may be found in documentation accompanying the Software Product, if available, such as a README or similarly titled file, or otherwise published by Lenovo.
+<b>6. Software Upgrade</b>
+When connected to the internet, your mobile device will automatically check system updates/upgrades. The process will cause some data transmission. Lenovo will provide software update/upgrade packages to modify bugs or improve your user experiences from time to time.
+<b>7. Charges</b>
+Charges for the Software Product are based on the level of use acquired. 
+If You wish to increase the level of use, contact Lenovo or the party from whom You acquired the Software Product. Additional charges may apply. 
+If any authority imposes a duty, tax, levy or fee, excluding those based on Lenovo’s net income, upon the Software Product, then You agree to pay the amount specified or supply exemption documentation. You are responsible for any personal property taxes for the Software Product from the date that You acquire it.
+<b>8. No Warranty
+The Software Product(s) is provided to You "AS IS."
+SUBJECT TO ANY STATUTORY WARRANTIES WHICH CANNOT BE EXCLUDED, LENOVO MAKES NO WARRANTIES OR CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, REGARDING THE SOFTWARE PRODUCT OR TECHNICAL SUPPORT, IF ANY.
+</b>The exclusion also applies to any of Lenovo’s developers and suppliers.
+Suppliers or publishers of non-Lenovo Software Products may provide their own warranties.
+Lenovo does not provide technical support, unless Lenovo specifies otherwise in writing.
+<b>9. Limitation of Liability</b>
+Circumstances may arise where, because of a default on Lenovo's part or other liability, You may be entitled to recover damages from Lenovo. In each such instance, regardless of the basis on which You are entitled to claim damages from Lenovo (including fundamental breach, negligence, misrepresentation, or other contract or tort claim), except and to the extent that liability cannot be waived or limited by applicable laws, Lenovo is liable for no more than the amount of actual direct damages suffered by You, up to the amount You paid for the Software Product. This limit does not apply to damages for bodily injury (including death) and damage to real property and tangible personal property for which Lenovo is required by law to be liable.
+This limit also applies to Lenovo's suppliers and resellers. It is the maximum for which Lenovo, its suppliers and resellers are collectively responsible.
+<b>UNDER NO CIRCUMSTANCES IS LENOVO, ITS SUPPLIERS OR RESELLERS LIABLE FOR ANY OF THE FOLLOWING EVEN IF INFORMED OF THEIR POSSIBILITY: 1) THIRD PARTY CLAIMS AGAINST YOU FOR DAMAGES; 2) LOSS OF, OR DAMAGE TO, YOUR DATA; OR 3) SPECIAL, INCIDENTAL, OR INDIRECT DAMAGES OR FOR ANY ECONOMIC CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, BUSINESS REVENUE, GOODWILL, OR ANTICIPATED SAVINGS. SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.</b>
+<b>10. Consumer Rights</b>
+Nothing in this Agreement affects any statutory rights of consumers that cannot be waived or limited by contract. You may have additional consumer rights under applicable local laws, which this Agreement cannot change.
+<b>11. General</b>
+a) In the event that any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of this Agreement remain in full force and effect.
+b) You agree to comply with all applicable export and import laws and regulations.
+c) Neither You nor Lenovo will bring a legal action under this Agreement more than two (2) years after the cause of action arose unless otherwise provided by local law without the possibility of contractual waiver or limitation.
+</string>
+     <string name="lenovo_license_content_less">This Lenovo License Agreement (the &quot;Agreement&quot;) applies to each Lenovo Software Product that You acquire, whether it is preinstalled on or included with a Lenovo hardware product, acquired separately, or downloaded by You from a Lenovo Web site or a third-party Web site approved by Lenovo. It also applies to any updates or patches to these Software Products.
+
+Lenovo will license the Software Product to You only if You accept this Agreement. You agree to the terms of this Agreement by clicking to accept it or by installing, downloading, or using the Software Product.
+
+If You do not agree to these terms, do not install, download, or use the Software Product(s).
+•</string>
+     <string name="license_message">You must agree with the Lenovo Privacy Policy to continue using your mobile phone.</string>
+     <string name="lock_settings_picker_title">Ekran kilidini seçin</string>
+     <string name="mobile_data_message">Use your mobile phone&apos;s SIM card to go online. Enabling this service may incur data usage charges from your service provider. If you do not have a mobile data plan, it is recommended that you disable this option.</string>
+     <string name="mobile_data_title">Open Mobile Data</string>
+     <string name="mobile_data_use_sim1">Use SIM1（%1$s）Mobile Data</string>
+     <string name="mobile_data_use_sim2">Use SIM2（%1$s）Mobile Data</string>
+     <string name="network_data_title">Veri bağlantısı</string>
+     <string name="network_not_skip">Atlama</string>
+     <string name="network_skip">Atla</string>
+     <string name="network_skip_tips">Daha iyi hizmet ve destek için internete bağlanmanızı öneririz.</string>
+     <string name="network_wlan_summary_off">Bağlı değil</string>
+     <string name="network_wlan_summary_on">Bağlantı Kuruldu</string>
+     <string name="network_wlan_title">Select WLAN</string>
+     <string name="netwrok_data_summary">İnternet erişimi için SIM kartınızı kullanabilirsiniz. Bu hizmet kullandığınızda veri trafiği gerçekleştirilir.</string>
+     <string name="next">Next</string>
+     <string name="next_label">İleri</string>
+     <string name="nfc_quick_toggle_summary">允许手机在接触其他设备时交换数据</string>
+     <string name="nfc_quick_toggle_title">NFC</string>
+     <string name="normal_date_format">Bölgesel (%s)</string>
+     <string name="nsd_quick_toggle_summary">允许其他设备上的应用发现此设备上的应用</string>
+     <string name="nsd_quick_toggle_title">网络服务发现</string>
+     <string name="ok">OK</string>
+     <string name="others_title">Other Services</string>
+     <string name="othersetting_setting_item_summary_gps">Allow &quot;Map&quot; or other apps to use GPS for positioning. Enabling this service may incur data usage charges.</string>
+     <string name="othersetting_setting_item_title_exp">Agreed to join the association Experience Program</string>
+     <string name="othersetting_setting_item_title_gps">GPS Positioning</string>
+     <string name="pad_complete_congratulations">Tebrikler</string>
+     <string name="pad_complete_start">Yeni cihazınızı kullanmaya başlayın</string>
+     <string name="pad_complete_thanks">"Lenovo'yu seçtiğiniz için teşekkür ederiz!"</string>
+     <string name="pad_welcome_summary">Lenovo maceranızı başlatın</string>
+     <string name="phone_language">Dil</string>
+     <string name="please_select_phase2">Phase 2 authentication</string>
+     <string name="preference_status_close">关闭</string>
+     <string name="preference_status_open">未连接</string>
+     <string name="proxy_action_text">完成</string>
+     <string name="proxy_clear_text">清除</string>
+     <string name="proxy_defaultView_text">恢复默认设置</string>
+     <string name="proxy_error">注意</string>
+     <string name="proxy_error_dismiss">确定</string>
+     <string name="proxy_error_empty_host_set_port">The port field must be empty if the host field is empty.</string>
+     <string name="proxy_error_empty_port">You need to complete the port field.</string>
+     <string name="proxy_error_invalid_exclusion_list">The exclusion list you typed isn&apos;t properly formatted. Type a comma-separated list of excluded domains.</string>
+     <string name="proxy_error_invalid_host">The hostname you typed isn&apos;t valid.</string>
+     <string name="proxy_error_invalid_port">The port you typed isn&apos;t valid.</string>
+     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+     <string name="proxy_exclusionlist_label">Bypass proxy for</string>
+     <string name="proxy_hostname_hint">proxy.example.com</string>
+     <string name="proxy_hostname_label">Proxy hostname</string>
+     <string name="proxy_port_hint">8080</string>
+     <string name="proxy_port_label">Proxy port</string>
+     <string name="proxy_settings_title">Proxy</string>
+     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
+     <string name="proxy_url_title">PAC URL: </string>
+     <string name="proxy_warning_limited_support">The HTTP proxy is used by the browser but may not be used by the other apps.</string>
+     <string name="server_lenovo_exp_agree">Agree to join the Lenovo Enhanced Experience Program</string>
+     <string name="server_lenovo_exp_dialog_title">Uyarı</string>
+     <string name="server_lenovo_exp_not_skip">Don&apos;t skip</string>
+     <string name="server_lenovo_exp_skip">Skip</string>
+     <string name="server_lenovo_exp_span_text">Daha fazla bilgi edinin</string>
+     <string name="server_lenovo_exp_summary">Come here for %1$s software support and %2$s service.</string>
+     <string name="server_lenovo_exp_tip">We suggest you join the Lenovo Enhanced Experience Program to receive better services and an enhanced mobile experience.</string>
+     <string name="server_lenovo_exp_warn">Lenovo experience programlarının iptal edilmesi bazı uygulamaların düzgün çalışmamasına neden olur ve ürün servislerini ve programlarını azaltır, iptal etmek istediğinize emin misiniz?</string>
+     <string name="server_lenovo_id_summery">"Lenovo ID'niz olan telefon numarası ile Lenovo servislerini kullanabilirsiniz."</string>
+     <string name="server_lenovo_id_title">"Lenovo ID'sini kaydetmeyi kabul ediyorum"</string>
+     <string name="server_lenovo_license_summery">Lenovo lisans sözleşmesini kabul edin ve kurulum sihirbazını tamamlayın.</string>
+     <string name="server_lenovo_license_title">Lisans Sözleşmesi</string>
+     <string name="setup_wizard">Setup Wizard</string>
+     <string name="setup_wizard_back_button_text">Back</string>
+     <string name="setup_wizard_next_button_text">Next</string>
+     <string name="sim_missing_message">SIM card not detected. It is recommended that you reinsert it and try again.</string>
+     <string name="sim_missing_text_device">SIM kartınızı takmak için, cihazınızla birlikte verilen talimatları okuyun.</string>
+     <string name="sim_missing_title">SIM kart takın</string>
+     <string name="skip">Skip</string>
+     <string name="skip_anyway_button_label">Yine de atla</string>
+     <string name="skip_button_label">Atla</string>
+     <string name="terms_title">Şartlar ve koşullar</string>
+     <string name="tips">İstem</string>
+     <string name="title_act_language">Language selection</string>
+     <string name="title_act_license">Lenovo License Agreement</string>
+     <string name="title_act_network">Ağ ayarları</string>
+     <string name="title_act_server">Lenovo Enhanced Experience Program</string>
+     <string name="try_again_button_label">Yeniden dene</string>
+     <string name="txt_content_item_content1">"Yazılım Ürünü'nü kullanım hakkını ispat edebilmek için fiş, fatura veya benzeri bir satış belgesini saklamanız gerekir. Satış belgesi kullanım seviyenizi gösterir. Bir kullanım seviyesi belirtilmemişse Yazılım Ürünü'nün tek bir kopyasını bir adet donanım ürününe yükleyip kullanabilirsiniz. Satış belgeniz aynı zamanda gelecekte olabilecek yükseltmelerden de yararlanabilmenizi sağlar. Lenovo donanım ürünüyle birlikte ücretsiz olarak önceden yüklü gelen, birlikte verilen veya dağıtılan Yazılım Ürünleri için donanım ürününüzün satış belgesi de ayrıca Yazılım Ürününü kullanmaya hakkınız olduğunun bir kanıtıdır."</string>
+     <string name="txt_content_item_content10_1">a) Bu Sözleşmenin hükümlerinden herhangi birinin geçersiz veya uygulanamaz hale gelmesi durumunda, Sözleşmenin geriye kalan hükümleri geçerliliğini devam ettirecektir.</string>
+     <string name="txt_content_item_content10_2">b) Geçerli ihracat ve ithalat yasalarına ve düzenlemelerine uymayı kabul ediyorsunuz.</string>
+     <string name="txt_content_item_content10_3">c) Yerel yasalar tarafından aksi sağlanmadığı sürece, Size veya Lenovo eylemin gerçekleşmesinden iki (2) yıl sonra işbu Sözleşme kapsamında yasal işlemde bulunamazsınız ve muafiyet veya sınırlama imkanı bulunmaz.</string>
+     <string name="txt_content_item_content11_1">Bu Yazılım Ürününü aldıysanız</string>
+     <string name="txt_content_item_content11_2">Kamboçya, Endonezya, Filipinler, Vietnam veya Sri Lanka,</string>
+     <string name="txt_content_item_content11_3">"Bu Yazılım Ürününden veya bununla bağlantılı olarak ortaya çıkan anlaşmazlıklar Singapur'daki tahkim tarafından karara bağlanacak ve kanunlardaki çatışmalara bakılmaksızın bu Sözleşme Singapur kanunlarına göre ele alınacak, incelenecek ve yürürlüğe konulacaktır. Bu Yazılım Ürününü Hindistan'da satın aldıysanız Yazılım Ürününden veya bununla bağlantılı olarak ortaya çıkan anlaşmazlıklar Bangalor, Hindistan'daki tahkim mahkemesi tarafından karara bağlanacaktır."</string>
+     <string name="txt_content_item_content11_4">"Singapur Uluslararası Tahkim Merkezinin Tahkim Kuralları (SIAC Kuralları) uyarınca Singapur'daki Tahkim yetkili olacaktır. Hindistan'da geçerli kanunlar uyarınca Hindistan'da bir Tahkim mahkemesi yapılacaktır. Tahkim kararı taraflar için nihai ve bağlayıcı olacaktır ve tarafların itiraz hakkı bulunmayacaktır, bu kararlar yazılı olacak ve eldeki bulgularla hukuki gerekçeleri içerecektir. Bütün tahkim raporları, beraberlerindeki belgelerle birlikte İngilizce dilinde iletilecek ve bu Sözleşmenin İngilizce sürümü bu raporlarda diğer dillerdeki sürümlerine göre daha geçerli olacaktır"</string>
+     <string name="txt_content_item_content2">Yazılım Ürünü, Lenovo ve Lenovo tedarikçisine ait olup telif hakkı korumalı ve lisanslıdır, satılamaz. Lenovo size Yazılım Ürününün kullanımı için yasalar kapsamında özel olmayan lisans sağlar.</string>
+     <string name="txt_content_item_content2_1">a) Yazılım Ürününü satış belgesinde belirtilen seviyeye kadar kullanabilir ve b) bu kullanımı desteklemek için yedekleme kopyası gibi kopyalarını oluşturup yükleyebilirsiniz. Bu Sözleşmenin şartları oluşturduğunuz her kopya için geçerlidir. Telif hakkı bildirimlerini veya sahiplik göstergelerini kaldıramaz veya değiştiremezsiniz</string>
+     <string name="txt_content_item_content2_2">Yazılım Ürününü bir program yükseltmesi olarak aldıysanız yükseltmeden sonra yükseltme yapılan Yazılım Ürününü kullanamaz veya başka birine aktaramazsınız.</string>
+     <string name="txt_content_item_content2_3">Yazılım Ürününü kullanan herkesin (yerel veya uzaktan erişimle) sadece sizin yetkiniz dahilinde bunu kullandığını ve Sözleşme şartlarına uyduğunu sağlamak sizin sorumluluğunuzdadır</string>
+     <string name="txt_content_item_content2_4">a) Bu Sözleşmede belirtilenlerin aksi bir şekilde Yazılım Ürününü kullanamaz, kopyalayamaz, değiştiremez veya dağıtamazsınız; b) tersine parçalarına ayıramaz, tersine toplayamaz veya yasalar kapsamında muafiyet sağlanmadığı sürece Yazılım Ürününü tercüme edemez veya 3) Yazılım Ürününü alt lisanslayamaz veya kiralayamazsınız.</string>
+     <string name="txt_content_item_content2_5">"Sözleşme şartlarına uymamanız halinde Lenovo lisansınızı iptal edebilir. Lenovo'nun bunu yapması halinde Yazılım Ürününün bütün kopyalarını imha etmeniz gerekir."</string>
+     <string name="txt_content_item_content3">Yazılım Ürününü bu bölümde özel olarak izin verilmediği sürece başka bir kişiye aktaramazsınız. Önceden yüklü Yazılım Ürünleri sadece yüklü oldukları veya birlikte verildikleri Lenovo donanım ürünleriyle birlikte kullanılabilir ve sadece bu Lenovo donanımıyla aktarılabilir. Lenovo donanım ürününden bağımsız olarak aktarılamazlar.</string>
+     <string name="txt_content_item_content4_1">Bazı Lenovo Yazılım Ürünleri ve gelecekteki güncellemeler ve yamalar Microsoft Windows Önyükleme Ortamını da kapsayan üçüncü taraf bileşenleri içerebilir. Bu üçüncü taraf bileşenler size bu sözleşmedeki farklı şartlar ve koşullar kapsamında sunulur ve genelde ayrı bir lisans sözleşmesinde veya BENİOKU (veya benzer isimli bir dosya) dosyasında bulunur. Üçüncü tarafın lisans şartları ve kullanım kısıtlamaları sadece bu bileşenlerin kullanımını kapsar.</string>
+     <string name="txt_content_item_content4_2">Lenovo tarafından sunulan Üçüncü Taraf Yazılım Ürünleri bu Sözleşmenin kapsamı altında olabilir ama genelde Üçüncü Taraf bunları kendi şartları ve koşulları altında lisanslar. Üçüncü Taraf Yazılım Ürünleri Lenovo tarafından lisanslanmaz ve sadece ilgili lisans sözleşmesinin şartlarına bağlıdır.</string>
+     <string name="txt_content_item_content5">Yazılım Ürünü belirtimleri ve belirtilen çalışma ortamı bilgisi Lenovo tarafından bastırılan ve Yazılım Ürünüyle birlikte verilen BENİ OKU veya benzer isimli belgelerde bulunabilir.</string>
+     <string name="txt_content_item_content6_1">Yazılım Ürünü için istenen ücretler kullanım seviyesine bağlıdır.</string>
+     <string name="txt_content_item_content6_2">Kullanım seviyesini artırmak isterseniz Lenovo veya Yazılım Ürününü satın aldığınız yer ile görüşün. Ek ücretler uygulanabilir.</string>
+     <string name="txt_content_item_content6_3">Yetkili merciler Lenovonun Yazılım Ürününden net geliri dışında bir harç, vergi, icra veya ücret ödenmesini zorunlu kılarsa belirtilen miktarı ödemeyi veya muafiyet belgelerini ibraz etmeyi kabul edersiniz.</string>
+     <string name="txt_content_item_content6_4">Yazılım Ürününü aldığınız tarih itibariyle mülkiyet vergilerinden tarafınız sorumludur.</string>
+     <string name="txt_content_item_content7_1">Yazılım Ürünleri size OLDUĞU GİBİ sunulur.</string>
+     <string name="txt_content_item_content7_2">HARİÇ TUTULAMAYACAK BÜTÜN KANUNİ GARANTİLERE TABİ OLARAK LENOVO YAZILIM ÜRÜNÜ VEYA TEKNİK DESTEĞE İLİŞKİN ZIMNİ GARANTİLERLE TİCARİ GARANTİ VEYA KOŞULLA BİRLİKTE BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME İÇİN ZIMNİ GARANTİLER DE DAHİL FAKAT BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK YA DA ZIMNİ HİÇBİR GARANTİ VERMEZ.</string>
+     <string name="txt_content_item_content7_3">Hariç tutma Lenovo geliştiricileri ve tedarikçileri için de geçerlidir.</string>
+     <string name="txt_content_item_content7_4">Lenovo Dışı Yazılım Ürünlerinin tedarikçileri veya yayıncıları kendi garantilerini sağlar.</string>
+     <string name="txt_content_item_content7_5">Lenovo yazılı olarak aksini belirtmediği sürece teknik destek sağlamaz.</string>
+     <string name="txt_content_item_content8_1">"Lenovo'nun sorumluluğu kapsamında ortaya çıkan durumlarda, zararınızın Lenovo tarafından tazmin edilmesine karar verilebilir. Bu durumların her birinde, Lenovo'dan hak kazandığınız tazminatın esaslarına bakılmaksızın (asli ihlaller, ihmalkarlık, yanlış beyan veya diğer sözleşme veya haksızlıklardan doğan tazminatlar dahil olmak üzere) sorumluluktan feragat edilemeyen veya kanunlar tarafından sorumluluğun sınırlanmadığı durumlar hariç olmak üzere, Lenovo sizin uğradığınız gerçek zararın yani Yazılım Ürünü için ödediğiniz miktardan daha fazlasından dolayı sorumlu tutulamaz. Bu sınır, Lenovo'nun kanunen sorumlu tutulduğu bedensel yaralanmalar (ölüm de dahil) ve taşınmaz mallar ve kişisel fiziki mallar için geçerli değildir."</string>
+     <string name="txt_content_item_content8_2">"Bu sınır aynı zamanda Lenovo'nun tedarikçileri ve yetkili satıcıları için de geçerlidir. Lenovo, tedarikçileri ve yetkili satıcıları müştereken maksimum bunlardan sorumludur."</string>
+     <string name="txt_content_item_content8_3">HİÇBİR KOŞUL ATINDA, LENOVO, TEDARİKÇİLERİ VEYA YETKİLİ SATICILARI AŞAĞIDAKİLERİN MEYDANA GELME OLASILIĞI HAKKINDA BİLGİ SAHİBİ OLSALAR BİLE HİÇBİR ŞEKİLDE SORUMLU TUTULAMAZLAR: 1) HASARLAR İÇİN TARAFINIZA YÖNELİK ÜÇÜNCÜ TARAF TAZMİNAT TALEPLERİ; 2) VERİLERİNİZİN KAYBOLMASI VEYA HASAR GÖRMESİ VEYA 3) ÖZEL, RASLANTISAL VEYA DOLAYLI HASARLAR VEYA BUNA BAĞLI KAR, İŞ GELİRİ, SAYGINLIK VEYA BİRİKİM GİBİ EKONOMİK KAYIPLAR. BAZI ÜLKELER VEYA MAHKEMELER RASTLANTISAL VEYA BAĞLI HASARLARIN MUAF TUTULMASINA VEYA SINIRLANMASINA İZİN VERMEDİĞİ İÇİN YUKARIDAKİ SINIRLAMA VEYA MUAFİYETLER SİZİN İÇİN GEÇERLİ OLMAYABİLİR.</string>
+     <string name="txt_content_item_content9">Bu Sözleşmedeki hiçbir madde tüketicilerin muaf tutulamayan veya sınırlanamayan temel haklarını etkilemez. Geçerli yerel yasalar kapsamında bu Sözleşmenin değiştiremeyeceği ek tüketici haklarına sahip olursunuz.</string>
+     <string name="txt_content_item_title1">1.Yetki Verme</string>
+     <string name="txt_content_item_title10">10.Genel</string>
+     <string name="txt_content_item_title11">11. Anlaşmazlık Çözümü</string>
+     <string name="txt_content_item_title2">2.Lisans</string>
+     <string name="txt_content_item_title3">3.Aktarılabilirlik</string>
+     <string name="txt_content_item_title4">4.Üçüncü Taraf Yazılım Bileşenleri ve Ürünleri</string>
+     <string name="txt_content_item_title5">5.Yazılım Ürünü Belirtimleri</string>
+     <string name="txt_content_item_title6">6.Ücretler</string>
+     <string name="txt_content_item_title7">7.Garanti Dışı</string>
+     <string name="txt_content_item_title8">8.Sorumluluğun Sınırlanması</string>
+     <string name="txt_content_item_title9">9.Tüketici Hakları</string>
+     <string name="txt_notice_item1">1. Bu cep telefonu ilk defa çalıştırıldığında (ve internete bağlandığında), ürünün uluslararası mobil istasyon cihaz kimlik (IMEI) numarası Lenovo ile birlikte kaydedilir ve bu kayıt işlemi sadece bir kez yapılır.</string>
+     <string name="txt_notice_item2">2. Telefonun etkinleşmesi kabul edildiğinde cihazın orijinalliği onaylanır ve satış sonrası hizmetiniz başlar.</string>
+     <string name="txt_notice_item3">"3. Kayıt için iletilen veri 1 KB'den azdır."</string>
+     <string name="txt_notice_title">İkaz</string>
+     <string name="txt_title_license">Lisans Sözleşmesi</string>
+     <string name="txt_title_summary">Bu Lenovo Lisans Sözleşmesi (Sözleşme), önceden yüklü veya Lenovo donanım ürünü içinde yer alan, tek başına alınan veya tarafınızda Lenovo Web sitesinden veya üçüncü taraf Web sitesinden Lenovo onayıyla indirdiğiniz bütün Lenovo Yazılım Ürünleri için geçerlidir. Aynı zamanda bu Yazılım Ürünlerinin güncellemeleri ve yamaları için de geçerlidir.</string>
+     <string name="txt_title_summary_1_1">Lenovo sadece bu Sözleşmeyi kabul etmeniz halinde size bu Yazılım Ürününü lisanslar. Kabul ediyorum seçeneğini tıklatarak veya Yazılım Ürününü yükleyerek, indirerek veya kullanarak bu Sözleşmenin şartlarını kabul etmiş olursunuz.</string>
+     <string name="txt_title_summary_1_2">Bu şartları onaylamıyorsanız Yazılım Ürünlerini yüklemeyin, indirmeyin veya kullanmayın.</string>
+     <string name="txt_title_summary_1_3">• Yazılım Ürünlerini ücret ödeyerek satın aldıysanız Yazılım Ürününü satın aldığınız yere götürerek ödediğiniz ücreti geri alın.</string>
+     <string name="txt_title_summary_1_4">•Yazılım Ürünleri önceden yüklü geldiyse veya bir Lenovo donanım ürünüyle birlikte verildiyse donanım ürününü kullanmaya devam edebilirsiniz ancak bu Sözleşme kapsamındaki Yazılım Ürünlerini kullanamazsınız.</string>
+     <string name="txt_title_summary_1_5">“Yazılım Ürünü” bilgisayar yazılımı programlarını (önceden yüklü veya sonradan verilen) ve belgeler gibi ilgili lisanslı materyalleri kapsar.</string>
+     <string name="txt_title_summary_1_6">“Siz” ve “Sizin” bireysel şahıslara veya tüzel kişiliklere karşılık gelir.</string>
+     <string name="txt_title_summary_link_descirpt">Bu Lenovo Lisans Sözleşmesi şurada diğer dillerde de bulunmaktadır</string>
+     <string name="uepromotion_protocol">Thank you for selecting Lenovo mobile devices! Before using the User experience improvement plan function of Lenovo mobile devices, you must read the following terms carefully:
+We will provide the mobile communication network/Internet based online data center related services in accordance with this user experience improvement plan (this plan). In this plan, all the information, functions, contents, software, hardware or services provided directly by us are collectively referred to as Services.The plan is signed by you and Beijing Legend Tiaopin Technology Co., Ltd. (hereinafter referred to as we or our company). Depending on the context, in this plan, we may sometimes include our suppliers, service providers, customers or employees. Any reference to you shall mean any entity or individual who agrees to join or use this service.
+
+1. Service definition and description
+User experience improvement plan is a service function we proposed for Lenovo mobile devices, which is designed to enhance the products or services and improve the user experience. After enabling the User experience improvement plan function in your mobile device, you can have the priority to experience the new services of User experience improvement plan while using the original functions of your mobile devices: 
+
+Enhanced device hardware and software acceleration function and personalized experience
+(1) Speed up the boot process and save your boot time to provide you with a better boot experience;
+(2) Provide you with the most popular software function experience. These functions are simple, easy to use and considerate;
+(3) Enhanced GPS positioning function, providing faster and more accurate GPS positioning functions;
+(4) Intelligent recognition and switching functions of mobile, WLAN and other network modes provide personalized services in different network environments. This largely save your mobile network traffic and costs while you enjoy the services; 
+
+Multi-faceted, personalized content recommendation service:
+ (1) When you are playing games, we will provide you with the latest game download links and information that you may be interested in;
+(2) When you are listening to music, we will provide you with information on recent activities, concerts and popular new songs of related singers;
+(3) When you are trying to use mobile offices, we will provide you with the latest and most popular office software and experience;
+(4) When you are surfing the Web, we will provide you with safe and fast access experience, and recommend the latest software, games, news, ebooks, music, videos and other personalized content services and multimedia audio-visual entertainment that you may be interested in;
+(5) When you are positioning navigation, in addition to the more accurate and efficient GPS positioning functions, we will also provide you with food, clothing and shelter recommendations and retrieval services based on location information;
+
+Safe and reliable software and service experiences;
+(1) Through the grading and scoring mechanism for software, we will provide you with many types of built-in software which are more secure;
+(2) Considerate one-stop application retrieve, download, install and uninstall services, letting you experience the most popular software and games immediately;
+(3) Build personal cloud storage services for you; Let you share information between phones, computers, pads and even multimedia televisions of compatible formats anywhere, and you will no longer need to worry about missing your files. 
+You shall clearly understand and acknowledge that we only offer one convenient service. In other words, this service only provides you with the optimization, enhancement or personalization assistance based on your mobile device&apos;s existing functions. Specific services and contents may be provided by other third parties. We will not provide you with services and specific information content which shall be provided by their providers. 
+We will not provide any warranties for services and information content provided by any third parties, including but not limited to warranties for the security, reliability, timeliness and applicability of such information content. If you have any questions, objections, comments or suggestions on such information content, you shall contact the providers and consult with them. We do not assume any responsibility to you on this. 
+We reserve the rights to adjust the service content and service method as needed (including but not limited to the terms of service), and these adjusted contents or services or overview and/or function description based on them will be the effective part of this agreement. We will make reasonable business efforts to inform you. While you enjoy the services, you shall check and see the modified contents in time and follow them. 
+We may use technology or other measures to protect the services, ensure that the services comply with relevant laws and regulations and policy requirements, protect our suppliers, customers and employees, or prevent you from violating this plan. These measures may include but not limited to the control of your use of this service. These measures may prevent or interrupt your use of this service. 
+
+2. How to obtain the service
+To obtain this service, you shall: 
+(a) Make sure your mobile device has been connected to mobile communication network/Internet and the network connection is smooth; 
+(b) Open the function modules corresponding to the service, such as push service, GPS, etc.; and
+(c) Sign the plan in accordance with the Article 3 of this plan. 
+If you meet the above conditions, then you can use this service in accordance with this plan. 
+
+3. Sign a plan
+You must accept to sign the terms and conditions of this plan before you can use this service. When you sign this plan, you must reach the age of legal capacity as stipulated by applicable laws; if you are under such age of legal capacity, the signing of the plan must be completed by your parent or legal guardian. 
+The following behaviors indicate that you understand and accept the terms and conditions of this plan: 
+(a) You click on the I Agree or I Accept or similar buttons to confirm that you agree to or accept the online version of this plan; 
+(b) You have signed the paper version of this plan with us; or 
+(c) You have used this service (including any third party services provided together with this service). If you do not agree to the terms and conditions of this plan, please do not use this service. 
+
+4. Service period and service fee 
+At present, services under this agreement are free services, but we reserve the rights to charge you for these services in the future. If we plan to charge this service, we will notify you in advance about the fees. We may not provide this service to you within a specific period (service period) unless you pay the corresponding service fees in accordance with our requirements. We reserve the right to adjust the service fee at any time based on our actual situations. 
+The service fees do not include any fees incurred due to your access to Internet or mobile network. Whether the service is provided on a paid basis, any expenses (such as telephone bills, SMS bills, and fees incurred due to your access to other Internet services and online purchase of other applications, audio and video contents, services or products) payable to a third party (including network operators) due to your use of the service, shall be solely borne by yourself. 
+
+5. How to use this service
+When using this service, you shall: 
+Comply with any applicable laws, including international treaties or conventions;
+ Comply with all the plans, principles, provisions, procedures or notices related to this service; 
+Immediately notify us of any illegal use of your Lenovo account or security bug in your account that you have become aware of; 
+
+6. Product Registration
+When your device is powered on for the first time, device information of your cell phone will be transmitted to Lenovo through available data service or WLAN network，which will happen only once. Usage of that information is limited to genuine product verification and post-sale services management, with the sole purpose to provide better service.
+
+7. Usage of Data Service and Fees
+The registration process above and some functions of Lenovo cell phones will use data service or WLAN network as the default connection method. Lenovo will not charge you directly, but you may need to pay for Internet roaming, data transmission (e.g., picture upload), or other services, according to your service agreement with the Internet service providers. It becomes your responsibility to pay the ISPs.
+
+8. Prohibitions 
+When using this service, you shall not: 
+Use this service to engage in any activities which may have an adverse effect on the normal operation of Internet or mobile networks; 
+Use this service to infringe the intellectual property rights or any other legal rights or interests of any other persons; 
+Use this service in such a manner that may impair the interests or reputation of us or our affiliates, dealers, distributors and/or suppliers (collectively referred to as we), or the interests or reputation of any customers thereof; Affiliates in this plan refer to the organizations controlled by us, under the same control of a third party as us, or controlling us. The organizations here refer to any companies, enterprises or other legal entities; and control means the ability to directly or indirectly affect the management of above-mentioned organizations, whether through ownership, voting shares, contracts or other methods. 
+Engage in or promote any illegal activities by using or leveraging this service; 
+Use any part of the service as a target link to any unsolicited bulk information or commercial information (junk emails); 
+Access and/or use this service by using any automatic process or service; 
+Use any unauthorized means to modify or reroute, or attempt to modify or reroute this service; 
+Damage or destroy this service (or any network connected to this service) or make this service unworkable or being overloaded or disrupt the use and enjoyment of the service by any other parties; 
+Resell or redistribute this service or any part of this service. 
+
+9. Consequence of breach 
+If you breach any provisions of this plan when using this service, we reserve the rights to ask you to remedy such breach or directly take responsive measures, including but not limited to: (a) suspend the service provided to you; and/or (b) terminate the service provided to you, so as to minimize the influence of your misconduct. 
+Any penalty, investigation, accusation, claims or demands resulted from or incurred due to your conduct shall be settled by you at your own expense; and any losses and liabilities arising therefrom shall be solely borne by you.
+ You shall, at your own expense, defend and not hold us and our affiliates accountable (us includes our suppliers, customers or employees), against any penalty, investigation, accusation, claims or demands initiated by any third party against us (us includes our affiliates, suppliers, customers or employees) due to your conduct, immediately upon your receipt of our notice. In addition, we reserve the rights to claim against you for any losses sustained by us due to your conduct. 
+
+10. Service changes
+ We may regularly or irregularly examine, repair, maintain and update the services&apos; websites or relevant devices so as to better meet our customers&apos; demands or update our products or perform technical improvement. For any suspension of the service for a reasonable period due to such reasons aforementioned, we promise to make reasonable efforts to inform you thereof in advance, and shall assume no responsibility for the inconvenience and losses caused by such reasons. In consideration of the particularity and unpredictability of Internet services, you agree that we may change, suspend or terminate this service at any time for any reasons. If possible, we will make commercially reasonable efforts to send you a prior notice of such change, suspension or termination, but shall not be obligated to send such notice. You can close the User experience improvement plan in the item Device settings at any time. After closing it, your mobile device will no longer interact with the server of this plan, and you can no longer use the corresponding functions and services.
+ Upon the termination of the service for any reason, your rights to use the service will be terminated accordingly.
+ 
+11. Intellectual property rights 
+We or the third party have all the rights, ownerships or interests in or to the service or any part thereof or the software and any text, picture, graph, audio and/or video materials (materials) provided through or together with this service, including but not limited to all intellectual property rights. These materials are protected by laws on copyright, trademark and/or other property ownership. You agree not to modify, adapt, translate, produce derivative works from, decompile, reverse engineer or disassemble this service or materials provided through or together with this service, or attempt to derive source codes from the service or the materials in other ways, or extract a substantial part thereof for any other applications. You also agree not to remove, obscure or alter the copyright notice, trademark or other proprietary right notice by us or any third party attached to or contained in this service or accessed together with or through this service. Intellectual property rights means any and all rights available from time to time under patent laws, copyright laws, trade secret laws, trademark laws and anti-unfair competition laws and any and all other proprietary rights, and any and all applications therefor and renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. 
+Unless otherwise expressly specified herein, nothing in this plan shall be construed as the assignment by a party to the other party of any copyright, patent, trade secret, trademark or other intellectual property rights held thereby.
+ 
+12. Data collection and protection 
+In order to collaborate and provide better services, if you participated in the User experience improvement plan, we will irregularly sync your mobile device operation data, including: equipment switch events, Push service switching events, WLAN switch events, GPS switch events and data, operator information, system function usage data, application startup/shutdown events, application installation/uninstallation events, device operation data (key features, exceptions, error data) and so on. 
+The device operation data synchronized by User experience improvement plan are collected anonymously. 
+Synchronized mobile device data will be unified, encrypted, and stored on a particular server and kept for a period less than one year. Such information will be protected in accordance with our privacy policy. 
+You may read details of our privacy policy by visiting http://www.lenovo.com.cn/Public/public_bottom/privacy.shtml.
+ And we may access, use or disclose your data and information only for the following purposes:
+ (a) For the anonymous analysis of device running state and application function usage, in order to discover the problems when devices and applications are running; as the basis for improving products or service functions, improving user experiences and providing the services listed in Article 1 of this plan;
+ (b) To comply with laws or assist in investigation or enforcement by a judicial and/or enforcement authority; 
+(c) To protect our and our customers&apos; property and legal rights, including the implementation of the plan and compliance with the policy applicable to this service; or 
+(d) To protect the rights, properties and security of the public. 
+However, there may be specific data leakage risks when you provide and transmit data through the network. You have fully considered and are willing to take the risk, so you hereby confirm that you will assume the responsibility for the consequences of data leakage caused by the network transmission. For such data leakage which is out of our control or not caused by our fault, and we shall not assume any responsibility. 
+
+13. Limited warranties 
+We guarantee that we will provide this service in a professional manner consistent with the industry standards. You shall inform us of any inconsistency of this service provided by us with this warranty within ninety (90) days since this service is provided. 
+You know and acknowledge that what we provide under this plan are services instead of goods. Therefore, we have made no warranty or representation with regard to this service other than above warranties, and hereby disclaim any other warranties or conditions (whether express or implied), including but not limited to those with respect to merchantability, applicability for a specific purpose and non-infringement.
+ You understand that this service is provided based on continuously developing technologies and in reliance upon telecommunication, Internet and other third-party services, and therefore may fail to satisfy the users&apos; demands due to disruption, delay or other problems occurred to this service, caused by unstable factors including but not limited to force majeure, computer virus or hacker attack, unstable system, user&apos;s location, user&apos;s device shutdown, or breakdown of GSM network, Internet, mobile network or other communication circuit. All of such risks shall be solely borne by the user who has enabled the service. We make no absolute warranty on the promptness, security or accuracy of the service and bear no liability for failure of timely and accurate storage, sending, receipt and reading of data, or any other similar problems caused by the reasons mentioned above. 
+You will decide whether to use this service at your sole discretion and bear any liabilities arising from such decision. 
+If applicable laws prohibit the exclusion of some implied warranties by contracts, then to the greatest extent prohibited by such applicable laws, the above exclusion of implied warranties does not apply to you. And you may continue to enjoy the rights which are so prohibited to be excluded or restricted by contracts. 
+
+14. Limitation of liabilities 
+If the service provided by us is inconsistent with the above warranty, we will make commercially reasonable efforts to correct the errors and provide the service again. If we are unable to materially correct any error therein in a commercially reasonable manner, you have the rights to terminate relevant services. If we charge you for the service, you can request refunds in reasonable proportion. The foregoing has set out all remedies available to you and all liabilities to be borne by us for such inconsistency. 
+Notwithstanding any other provisions of this plan, we bear no liability or obligation for: (a) any amount exceeding the total service fees received by us hereunder (if any); (b) any cost and expense incurred for obtaining substitute goods, technologies, services or rights; (c) expense, expense increase or loss incurred due to the interruption or delay of the service or the damage or loss of data, whether based on this plan or any contract, negligence, strict liabilities or any other legal principle, even if we have received a prior notice about possibility of compensation for damages mentioned above. 
+We will in no case be liable for any incidental, indirect or consequential damage or loss of profits. 
+If laws of your country prohibit the exclusion or limitation of some liabilities by contract, then to the greatest extent prohibited by such laws, the above liability limitation or exclusion provisions shall not apply to you.
+ 
+15. Plan changes
+Without prejudice to your material rights to enjoy the service, we reserve the rights to amend the provisions of this plan as necessary. We will provide a reasonably prior notice of any amendment to this plan via (a) webpage announcement; (b) e-mail; (c) push service and/or (d) SMS, etc. Please read the latest version of this plan at http://lenovomm.com (or any other website provided by us) from time to time to learn about any amendment. If you do not accept any amendment to this plan, please cancel and cease your use of the service before such amendment comes into force. If you do not cease your use of the service, you should use the service in accordance with the provisions of the amended plan.
+ 
+16. Termination; effects of termination 
+This plan shall become effective as of the agreed effective date until it is terminated by either party. 
+Upon the termination of this plan due to the expiry of its term or for any other reason, the [Intellectual property rights], [Limited warranties], [Limitation of liabilities], [Information collection and privacy protection] and [Termination; effects of termination] and other provisions of this plan that shall survive based on their nature shall survive and remain in force and effect until they have been fully performed. 
+
+17. Construction of the plan
+If any provision of this plan is held invalid or unenforceable in whole or in part for whatever reason, the parties hereto shall replace such provision with a provision that can best reflect the intention of such invalid or unenforceable provision, and the remaining provisions of this plan shall remain valid and binding. This plan shall constitute the complete plan between the parties hereto on the subject matter of this plan and other relevant matters, and will supersede any prior plan or representation on your use of this service. The headings herein are inserted only for convenience and shall not affect the construction of this plan. If there is any inconsistency between this plan and Lenovo Account Registration Plan, this plan shall prevail. 
+
+18. Assignment of the plan 
+We may assign or subcontract this plan in whole or in part at any time with or without prior notice for the purpose of achieving or providing better services. You shall not assign this plan or any part hereof to any other person. Any assignment made by you shall be null and void. You shall not assign your rights to use this service or any part of this service to any other person, whether permanently or temporarily. 
+
+19. No third-party beneficiary 
+This plan shall only inure to the benefit of you and us and shall not inure to the benefit of any other persons other than the permitted successors or assignees. 
+
+20. Governing law 
+This plan shall be concluded and construed in accordance with the applicable laws of the mainland of the People&apos;s Republic of China (excluding Hong Kong and Macau). Any disputes and conflicts arising from or in connection with the performance and interpretation of this plan shall be submitted to a court having jurisdiction at the place where we domicile for ruling. 
+
+21. Trademark notice 
+Legend, Lenovo and other logos of Lenovo are trademarks or registered trademarks of Lenovo (Beijing) Limited or its affiliates in mainland China and/or other countries. Other products, trade names and trademarks referred to herein are trademarks or registered trademarks of their respective holders. Any reference of such products, trade names and trademarks is only for explanation and does not indicate any relevance between this service and these companies or organizations. We reserve all rights that are not expressly granted hereunder.</string>
+     <string name="uepromotion_protocol_less">Thank you for selecting Lenovo mobile devices! Before using the User experience improvement plan function of Lenovo mobile devices, you must read the following terms carefully:
+We will provide the mobile communication network/Internet based online data center related services in accordance with this user experience improvement plan (this plan). In this plan, all the information, functions, contents, software, hardware or services provided directly by us are collectively referred to as Services.The plan is signed by you and Beijing Legend Tiaopin Technology Co., Ltd. (hereinafter referred to as we or our company). Depending on the context, in this plan, we may sometimes include our suppliers, service providers, customers or employees. Any reference to you shall mean any entity or individual who agrees to join or use this service.
+</string>
+     <string name="wapi_as_certificate">ASE 憑證</string>
+     <string name="wapi_user_certificate">使用者憑證</string>
+     <string name="welcome_message">Welcome</string>
+     <string name="wifi_WEP_secury_key">安全金鑰</string>
+     <string name="wifi_WEP_transmit_key">傳輸密鑰</string>
+     <string name="wifi_access_points">WLAN网络</string>
+     <string name="wifi_add_network">Add network</string>
+     <string name="wifi_advanced_ip_address_title">IP地址</string>
+     <string name="wifi_advanced_ipv4_address_title">IPv4 位址</string>
+     <string name="wifi_advanced_ipv6_address_title">IPv6 位址</string>
+     <string name="wifi_advanced_mac_address_title">MAC地址</string>
+     <string name="wifi_advanced_settings_label">IP settings</string>
+     <string name="wifi_advanced_titlebar">高级WLAN</string>
+     <string name="wifi_and_mobile_skipped_message">警告：如果您跳过WLAN网络设置，您的手机将无法连接到互联网进行任何初始下载或更新。</string>
+     <string name="wifi_ap_less">只看优选网络</string>
+     <string name="wifi_ap_more">查看所有网络</string>
+     <string name="wifi_assistant_card_message">通过WLAN助手自动连接到可用网络。</string>
+     <string name="wifi_assistant_intro_setup">全新功能
+WLAN助手</string>
+     <string name="wifi_assistant_no_thanks">不用了</string>
+     <string name="wifi_assistant_open_app">打开应用</string>
+     <string name="wifi_assistant_setup">设置</string>
+     <string name="wifi_assistant_title">WLAN助手</string>
+     <string name="wifi_assistant_title_message">%1$s会自动将您的设备连接到可用的最佳WLAN网络</string>
+     <string name="wifi_auto_conn">Auto Connection</string>
+     <string name="wifi_automatically_manage_summary">允许%1$s管理您的WLAN网络连接</string>
+     <string name="wifi_automatically_manage_title">自动管理WLAN</string>
+     <string name="wifi_avoid_poor_network_detection_summary">仅使用互联网连接情况良好的网络</string>
+     <string name="wifi_band_24ghz">2.4GHz</string>
+     <string name="wifi_band_5ghz">5GHz</string>
+     <string name="wifi_cancel">Cancel</string>
+     <string name="wifi_channel">優先頻道</string>
+     <string name="wifi_channel_width">頻道寬度</string>
+     <string name="wifi_config_info">Wi-Fi config</string>
+     <string name="wifi_connect">Connect</string>
+     <string name="wifi_connect_failed_message">手机无法连接到此WLAN网络。</string>
+     <string name="wifi_disabled_generic">Disabled</string>
+     <string name="wifi_disabled_network_failure">Avoided poor Internet connection</string>
+     <string name="wifi_disabled_password_failure">Authentication problem</string>
+     <string name="wifi_display_details">显示设备设置</string>
+     <string name="wifi_display_enable_menu_item">开启无线显示</string>
+     <string name="wifi_display_no_devices_found">未在附近找到设备。</string>
+     <string name="wifi_display_options_done">Done</string>
+     <string name="wifi_display_options_forget">取消保存</string>
+     <string name="wifi_display_options_name">名称</string>
+     <string name="wifi_display_options_title">无线显示选项</string>
+     <string name="wifi_display_settings_title">投射屏幕</string>
+     <string name="wifi_display_status_connected">已连接</string>
+     <string name="wifi_display_status_connecting">正在连接</string>
+     <string name="wifi_display_status_in_use">正在使用中</string>
+     <string name="wifi_display_status_not_available">无法使用</string>
+     <string name="wifi_dns1">DNS 1</string>
+     <string name="wifi_dns1_hint">8.8.8.8</string>
+     <string name="wifi_dns2">DNS 2</string>
+     <string name="wifi_dns2_hint">8.8.4.4</string>
+     <string name="wifi_dont_skip">Don&apos;t skip</string>
+     <string name="wifi_eap_anonymous">Anonymous identity</string>
+     <string name="wifi_eap_ca_cert">CA certificate</string>
+     <string name="wifi_eap_identity">Identity</string>
+     <string name="wifi_eap_method">EAP method</string>
+     <string name="wifi_eap_user_cert">User certificate</string>
+     <string name="wifi_empty_list_user_restricted">您无权更改WLAN网络。</string>
+     <string name="wifi_empty_list_wifi_off">要查看可用网络，请打开WLAN。</string>
+     <string name="wifi_empty_list_wifi_on">正在搜索WLAN网络…</string>
+     <string name="wifi_error">出错</string>
+     <string name="wifi_fail_to_scan">扫描不到网络</string>
+     <string name="wifi_failed_connect_message">Failed to connect to network</string>
+     <string name="wifi_failed_forget_message">Failed to forget network</string>
+     <string name="wifi_failed_save_message">Failed to save network</string>
+     <string name="wifi_forget">Forget</string>
+     <string name="wifi_frequency">Frequency</string>
+     <string name="wifi_gateway">Gateway</string>
+     <string name="wifi_gateway_hint">192.168.1.1</string>
+     <string name="wifi_gprs_selector_title">網路選擇器</string>
+     <string name="wifi_hex_password">16 進位密碼。</string>
+     <string name="wifi_hotspot_checkbox_text">WLAN热点</string>
+     <string name="wifi_hotspot_checkbox_text_summary">使用移动网络为其他设备提供WLAN网络</string>
+     <string name="wifi_hotspot_configure_ap_text">WLAN热点设置</string>
+     <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK便携式WLAN热点</string>
+     <string name="wifi_hotspot_connect">连接</string>
+     <string name="wifi_hotspot_message">%1$s要求您必须先在线登录热点，然后才能连接到网络。</string>
+     <string name="wifi_hotspot_title">要登录以便连接到网络吗？</string>
+     <string name="wifi_in_airplane_mode">正处于飞行模式下</string>
+     <string name="wifi_info_cancel">CANCEL</string>
+     <string name="wifi_info_delete">Delete</string>
+     <string name="wifi_info_delete_info">delete this access point, then need reinput password when connect again.</string>
+     <string name="wifi_info_ip_setting">IP设置</string>
+     <string name="wifi_info_nomorl">一般</string>
+     <string name="wifi_info_none">Signal</string>
+     <string name="wifi_info_ok">OK</string>
+     <string name="wifi_info_proxy">代理设置</string>
+     <string name="wifi_info_security">Security</string>
+     <string name="wifi_info_signal">Signal</string>
+     <string name="wifi_install_credentials">安装证书</string>
+     <string name="wifi_ip_address">IP address</string>
+     <string name="wifi_ip_address_hint">192.168.1.128</string>
+     <string name="wifi_ip_settings">IP settings</string>
+     <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
+     <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
+     <string name="wifi_ip_settings_invalid_ip_address">Type a valid IP address.</string>
+     <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
+     <string name="wifi_ip_settings_menu_cancel">Cancel</string>
+     <string name="wifi_ip_settings_menu_save">Save</string>
+     <string name="wifi_ipv4_address">IPv4 位址</string>
+     <string name="wifi_ipv6_address">IPv6 位址</string>
+     <string name="wifi_limit_optimizations_summary">限制WLAN耗电量</string>
+     <string name="wifi_menu_advanced">高级</string>
+     <string name="wifi_menu_connect">连接到网络</string>
+     <string name="wifi_menu_forget">取消保存网络</string>
+     <string name="wifi_menu_modify">修改网络</string>
+     <string name="wifi_menu_more_options">更多选项</string>
+     <string name="wifi_menu_p2p">WLAN直连</string>
+     <string name="wifi_menu_scan">扫描</string>
+     <string name="wifi_menu_wps_pbc">WPS按钮</string>
+     <string name="wifi_menu_wps_pin">WPS PIN码输入</string>
+     <string name="wifi_menu_write_to_nfc">写入NFC标签</string>
+     <string name="wifi_more">更多</string>
+     <string name="wifi_network_prefix_length">Network prefix length</string>
+     <string name="wifi_network_prefix_length_hint">24</string>
+     <string name="wifi_not_in_range">Not in range</string>
+     <string name="wifi_notify_open_networks">网络通知</string>
+     <string name="wifi_notify_open_networks_summary">有可用的公共网络时通知我</string>
+     <string name="wifi_other_network">添加其他网络</string>
+     <string name="wifi_p2p_cancel_connect_message">要取消连接%1$s的邀请吗？</string>
+     <string name="wifi_p2p_cancel_connect_title">取消邀请？</string>
+     <string name="wifi_p2p_delete_group_message">取消保存此群组？</string>
+     <string name="wifi_p2p_device_info">设备信息</string>
+     <string name="wifi_p2p_disconnect_message">如果断开连接，您与%1$s的连接将中断。</string>
+     <string name="wifi_p2p_disconnect_multiple_message">如果断开连接，您与%1$s和另外 %2$s 台设备的连接将中断。</string>
+     <string name="wifi_p2p_disconnect_title">断开连接？</string>
+     <string name="wifi_p2p_failed_connect_message">无法连接。</string>
+     <string name="wifi_p2p_failed_rename_message">无法重命名设备。</string>
+     <string name="wifi_p2p_menu_rename">重命名设备</string>
+     <string name="wifi_p2p_menu_search">搜索设备</string>
+     <string name="wifi_p2p_menu_searching">正在搜索…</string>
+     <string name="wifi_p2p_peer_devices">对等设备</string>
+     <string name="wifi_p2p_persist_network">记住该连接</string>
+     <string name="wifi_p2p_remembered_groups">已保存的群组</string>
+     <string name="wifi_p2p_settings_title">WLAN直连</string>
+     <string name="wifi_password">Password</string>
+     <string name="wifi_poor_network_detection">避开状况不佳的网络</string>
+     <string name="wifi_poor_network_detection_summary">仅在WLAN互联网连接状况良好时使用WLAN网络</string>
+     <string name="wifi_quick_toggle_summary">打开WLAN</string>
+     <string name="wifi_quick_toggle_title">WLAN</string>
+     <string name="wifi_remembered">Saved</string>
+     <string name="wifi_required_info_text">要完成设置，您的平板电脑必须连接到WLAN网络。设置完毕后，您将可以在移动数据网络和WLAN网络之间切换。</string>
+     <string name="wifi_save">Save</string>
+     <string name="wifi_saved_access_points_label">Saved networks</string>
+     <string name="wifi_saved_access_points_titlebar">已保存的网络</string>
+     <string name="wifi_scan_always_available">随时都可扫描</string>
+     <string name="wifi_scan_always_available_summary">允许Google的位置信息服务和其他应用扫描网络（即使WLAN已关闭）</string>
+     <string name="wifi_scan_always_available_title">始终允许扫描网络</string>
+     <string name="wifi_scan_always_confirm_allow">Allow</string>
+     <string name="wifi_scan_always_confirm_deny">Deny</string>
+     <string name="wifi_scan_always_turnoff_message">To turn this off, go to Advanced in the overflow menu.</string>
+     <string name="wifi_scan_always_turnon_message">为了提高位置信息精确度以及其他目的，“%1$s”请求启用网络扫描功能（在关闭了WLAN时也可进行扫描）。
+
+是否对所有需要进行扫描的应用批准这项请求？</string>
+     <string name="wifi_scan_notify_remember_choice">不再显示</string>
+     <string name="wifi_scan_notify_text_location_off">应用可扫描附近的网络（在关闭了WLAN时也可进行扫描）。如果您不希望应用这么做，请进入“高级”&gt;“随时都可扫描”进行设置。</string>
+     <string name="wifi_scan_notify_text_location_on">为了提高位置信息精确度以及其他目的，Google 和其他应用可扫描附近的网络（在关闭了WLAN时也可进行扫描）。如果您不希望应用这么做，请进入“高级”&gt;“随时都可扫描”进行设置。</string>
+     <string name="wifi_secured_first_item">Secured with %1$s</string>
+     <string name="wifi_secured_second_item">, secured with %1$s</string>
+     <string name="wifi_security">Security</string>
+     <string name="wifi_security_eap">802.1x EAP</string>
+     <string name="wifi_security_none">None</string>
+     <string name="wifi_security_short_eap">802.1x</string>
+     <string name="wifi_security_short_wep">WEP</string>
+     <string name="wifi_security_short_wpa">WPA</string>
+     <string name="wifi_security_short_wpa2">WPA2</string>
+     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+     <string name="wifi_security_wapi_certificate">WAPI 憑證</string>
+     <string name="wifi_security_wep">WEP</string>
+     <string name="wifi_security_wpa">WPA PSK</string>
+     <string name="wifi_security_wpa2">WPA2 PSK</string>
+     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+     <string name="wifi_select_network">选择WLAN网络</string>
+     <string name="wifi_setting_frequency_band_error">设置频带时出现问题。</string>
+     <string name="wifi_setting_frequency_band_summary">指定操作的频率范围</string>
+     <string name="wifi_setting_frequency_band_title">WLAN频带</string>
+     <string name="wifi_setting_on_during_sleep_title">在休眠状态下保持WLAN连接</string>
+     <string name="wifi_setting_sleep_policy_error">更改设置时出现问题</string>
+     <string name="wifi_setting_sleep_policy_title">在休眠状态下保持WLAN网络连接</string>
+     <string name="wifi_settings">WLAN</string>
+     <string name="wifi_settings_category">WLAN设置</string>
+     <string name="wifi_settings_summary">设置和管理无线接入点</string>
+     <string name="wifi_settings_title">WLAN</string>
+     <string name="wifi_setup_add_network">添加网络</string>
+     <string name="wifi_setup_back">上一步</string>
+     <string name="wifi_setup_cancel">取消</string>
+     <string name="wifi_setup_connect">连接</string>
+     <string name="wifi_setup_description_connected">触摸<b>下一步</b>可继续进行设置。
+
+触摸<b>返回</b>可连接到其他WLAN网络。</string>
+     <string name="wifi_setup_description_connecting">建立连接可能需要几分钟时间...</string>
+     <string name="wifi_setup_detail">网络详情</string>
+     <string name="wifi_setup_eap_not_supported">您无法在设置过程中配置 EAPWLAN连接。设置完毕后，您可以在“设置”&gt;“无线和网络”中进行配置。</string>
+     <string name="wifi_setup_forget">取消保存</string>
+     <string name="wifi_setup_next">下一步</string>
+     <string name="wifi_setup_not_connected">未连接</string>
+     <string name="wifi_setup_refresh_list">刷新列表</string>
+     <string name="wifi_setup_save">保存</string>
+     <string name="wifi_setup_skip">跳过</string>
+     <string name="wifi_setup_status_connecting">正在连接...</string>
+     <string name="wifi_setup_status_eap_not_supported">不支持 EAP。</string>
+     <string name="wifi_setup_status_edit_network">键入网络配置</string>
+     <string name="wifi_setup_status_existing_network">连接到现有网络</string>
+     <string name="wifi_setup_status_new_network">连接到新的网络</string>
+     <string name="wifi_setup_status_proceed_to_next">转至下一步</string>
+     <string name="wifi_setup_status_scanning">正在扫描网络...</string>
+     <string name="wifi_setup_status_select_network">触摸某个网络即可与其连接</string>
+     <string name="wifi_setup_status_unsecured_network">连接到不受保护的网络</string>
+     <string name="wifi_setup_title">WLAN设置</string>
+     <string name="wifi_setup_title_add_network">添加网络</string>
+     <string name="wifi_setup_title_connected_network">已连接到WLAN网络“%s”</string>
+     <string name="wifi_setup_title_connecting_network">正在连接到WLAN网络“%s”…</string>
+     <string name="wifi_setup_title_editing_network">连接到WLAN网络“%s”</string>
+     <string name="wifi_setup_wizard_next">下一步</string>
+     <string name="wifi_setup_wizard_skip">跳过此步骤</string>
+     <string name="wifi_setup_wizard_title">选择WLAN网络</string>
+     <string name="wifi_setup_wps">自动设置 (WPS)</string>
+     <string name="wifi_show_advanced">Advanced options</string>
+     <string name="wifi_show_password">Show password</string>
+     <string name="wifi_signal">Signal strength</string>
+     <string name="wifi_signal_strong_summary">当连接的信号较弱时，自动进行信号增强，以保证更好的连接</string>
+     <string name="wifi_signal_strong_title">WLAN 信号增强</string>
+     <string name="wifi_skip_anyway">Skip anyway</string>
+     <string name="wifi_skipped_message">警告：如果您跳过WLAN网络设置，您的手机将只能通过移动数据网络进行初始下载和更新。为了避免产生数据流量费，请连接到WLAN网络。</string>
+     <string name="wifi_speed">Link speed</string>
+     <string name="wifi_ssid">Network name</string>
+     <string name="wifi_ssid_hint">Enter the SSID</string>
+     <string name="wifi_starting">正在打开WLAN…</string>
+     <string name="wifi_status">Status</string>
+     <string name="wifi_stopping">正在关闭WLAN…</string>
+     <string name="wifi_suspend_efficiency_title">提高能效</string>
+     <string name="wifi_suspend_optimizations">WLAN优化</string>
+     <string name="wifi_suspend_optimizations_summary">开启WLAN时尽可能节约电池用量</string>
+     <string name="wifi_switch_settings_title">WLAN位置绑定</string>
+     <string name="wifi_switch_summary">根据判断是否在绑定的WLAN网络覆盖范围内，即可开启WLAN开关并连接此网络</string>
+     <string name="wifi_tether_auto_channel_text">自動</string>
+     <string name="wifi_tether_auto_channel_width_text">自動 20/40 MHz</string>
+     <string name="wifi_tether_auto_disable_title">保持 Wi-Fi 熱點開啟</string>
+     <string name="wifi_tether_checkbox_text">便携式WLAN热点</string>
+     <string name="wifi_tether_configure_ap_text">设置WLAN热点</string>
+     <string name="wifi_tether_configure_ssid_default">Android热点</string>
+     <string name="wifi_tether_configure_subtext">%1$s %2$s便携式WLAN热点</string>
+     <string name="wifi_tether_enabled_subtext">便携式热点“%1$s”已激活</string>
+     <string name="wifi_tether_failed_subtext">便携式WLAN热点错误</string>
+     <string name="wifi_tether_starting">正在打开热点...</string>
+     <string name="wifi_tether_stopping">正在关闭热点...</string>
+     <string name="wifi_unchanged">(unchanged)</string>
+     <string name="wifi_unspecified">(unspecified)</string>
+     <string name="wifi_wps_available_first_item">可使用 WPS</string>
+     <string name="wifi_wps_available_second_item"> （可使用 WPS）</string>
+     <string name="wifi_wps_complete">WPS 已成功启动。正在连接网络...</string>
+     <string name="wifi_wps_connected">已连接到WLAN网络“%s”</string>
+     <string name="wifi_wps_failed_auth">身份验证失败。请重试。</string>
+     <string name="wifi_wps_failed_generic">WPS 未能成功启动。请过几分钟后重试。</string>
+     <string name="wifi_wps_failed_overlap">检测到其他 WPS 会话。请过几分钟后重试。</string>
+     <string name="wifi_wps_failed_tkip">无线路由器安全设置 (TKIP) 不受支持</string>
+     <string name="wifi_wps_failed_wep">无线路由器安全设置 (WEP) 不受支持</string>
+     <string name="wifi_wps_in_progress">正在设置 WPS，此过程最多可能需要两分钟时间才能完成。</string>
+     <string name="wifi_wps_nfc_enter_password">请输入您的网络密码</string>
+     <string name="wifi_wps_onstart_pbc">请按下您路由器上的WLAN保护设置按钮，它可能会标为“WPS”或包含此符号：</string>
+     <string name="wifi_wps_onstart_pin">请在 WLAN 路由器终端界面上输入 PIN 码:%1$s。设置过程最多可能需要两分钟时间。</string>
+     <string name="wifi_wps_setup_msg">正在启动 WPS...</string>
+     <string name="wifi_wps_setup_title">WLAN保护设置</string>
+     <string name="zone_auto">Otomatik saat dilimi</string>
+     <string name="zone_auto_summaryOff">Ağ tarafından sağlanan saat dilimini kullan</string>
+     <string name="zone_auto_summaryOn">Ağ tarafından sağlanan saat dilimini kullan</string>
+     <string name="zone_list_menu_sort_alphabetically">Alfabetik olarak sırala</string>
+     <string name="zone_list_menu_sort_by_timezone">Saat dilimine göre sırala</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">leather</string>
+     <string name="lenovo_call_state_active">In call</string>
+     <string name="lenovo_call_state_background">Hanging up</string>
+     <string name="lenovo_call_state_incoming">Incoming call</string>
+     <string name="lenovo_call_state_null">unknown</string>
+     <string name="lenovo_call_unknow_number">unknown number</string>
+     <string name="lenovo_keyguard_leather_sheath_weather_description_unknown">"Hava durumu widget'larıyla lütfen bir şehir ekleyin"</string>
+     <string name="lenovo_keyguard_leather_sheath_weather_temp">℃</string>
+     <string name="lenovo_keyguard_leather_sheath_weather_temp_unknown">--℃</string>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">"sistem %1$s görüşmeyi silecek. "</item>
+        <item quantity="one">sistem 1 görüşmeyi silecek</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s saniye</item>
+        <item quantity="one">%s saniye</item>
+        <item quantity="few">%s saniye</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s \"%2$s\"için arama sonuçları</item>
+        <item quantity="one">%1$s \"%2$s\"için arama sonuçları</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s kişi(ler)</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d sesli mesaj</item>
+        <item quantity="one">Sesli mesaj</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">" %d bulundu"</item>
+        <item quantity="one">" 1 bulundu"</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d telefon numaraları olan kişiler</item>
+        <item quantity="one">telefon numarası olan 1 kişi</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">" %d kişi bulundu"</item>
+        <item quantity="one">" 1 kişi bulundu"</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">" %0$d kaynaklarından birleştirildi"</item>
+        <item quantity="one">Birleştirilmedi</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grup</item>
+        <item quantity="one">1 grup</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">"%1$d kişi %2$s'den"</item>
+        <item quantity="one">%2$s %1$d kişiye sahip</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d kişi(ler)</item>
+        <item quantity="one">%1$d kişi(ler)</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">\"%d okunmamış mesaj.</item>
+        <item quantity="one">\"%d okunmamış mesaj.</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Kişileri ara | Toplam %d kişi</item>
+        <item quantity="one">Kişileri ara | Toplam 1 kişi</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kişi</item>
+        <item quantity="one">1 kişi</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">" %d arama kayıtları bulundu"</item>
+        <item quantity="one">" 1 arama kaydı bulundu"</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Okundu%dbildirimleri gönderiliyor</item>
+        <item quantity="one">Okundu%dbildirimleri gönderiliyor</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">" %d seçildi"</item>
+        <item quantity="one">" %d seçildi"</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Konuşmaları %1$s okundu olarak işaretle</item>
+        <item quantity="one">1 konuşmayı okundu olarak işaretle</item>
+    </plurals>
+</resources>

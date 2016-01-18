@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Doğrudan ilet</item>
+        <item>Gönderenin adını ekle</item>
+        <item>Gönderenin adını ve numarasını ekle</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Doğrudan ilet</item>
+        <item>Gönderenin adını ekle</item>
+        <item>Gönderenin adını ve numarasını ekle</item>
+        <item>Her seferinde sor (otomatik iletme sırasında doğrudan ilet)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>SIM kart</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Aygıt</item>
+        <item>SIM kart</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Telefon</item>
+        <item>UIM kart</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Yüksek</item>
+        <item>Orta</item>
+        <item>Düşük</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Neredesin?</item>
+        <item>Ne yapıyorsun?</item>
+        <item>Acil! Lütfen hemen ara.</item>
+        <item>Üzgünüm, şu anda toplantıdayım.</item>
+        <item>Seni daha sonra tekrar arayacağım.</item>
+        <item>Merak etme, iyiyim.</item>
+        <item>Eve gidiyorum yoldayım.</item>
+        <item>Yakında varacağım.</item>
+        <item>Gelsen iyi edersin!</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Mutlu</item>
+        <item>Üzgün</item>
+        <item>Göz Kırpan</item>
+        <item>Dil çıkaran</item>
+        <item>Şaşkın</item>
+        <item>Öpücük</item>
+        <item>Bağıran</item>
+        <item>Havalı</item>
+        <item>Para ağız</item>
+        <item>Ağızda ayak</item>
+        <item>Mahcup</item>
+        <item>Melek</item>
+        <item>Kararsız</item>
+        <item>Ağlayan</item>
+        <item>Mühürlü dudaklar</item>
+        <item>Kahkaha</item>
+        <item>Kafası karışık</item>
+        <item>Aşk</item>
+        <item>Kızgın</item>
+        <item>Sırıtan</item>
+        <item>İfadesiz yüz</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+        <item>10 saniye</item>
+        <item>Diğer…</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Kuruluş</item>
+        <item>Yorumlar</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>Varsayılan</item>
+        <item>Piyano</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Cinsiyet</item>
+        <item>Telefon</item>
+        <item>Doğum Günü</item>
+        <item>Konum</item>
+        <item>Okul</item>
+        <item>Şirket</item>
+        <item>E-posta</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Özel</item>
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Kısıtlı mod</item>
+        <item>Uyarı modu</item>
+        <item>Serbest mod</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM alfabesi</item>
+        <item>Unicode</item>
+        <item>Otomatik</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Varsayılan</item>
+        <item>Küçük</item>
+        <item>Orta</item>
+        <item>Büyük</item>
+        <item>Ekstra büyük</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Her zaman</item>
+        <item>Yalnızca sessizken</item>
+        <item>Hiçbir zaman</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>Tarihe Göre</item>
+        <item>Numaraya Göre</item>
+        <item>Kişiye Göre</item>
+    </string-array>
+    <string-array name="harass_mode_value">
+        <item>Yalnızca kara listedeki numaraları engelle</item>
+        <item>Yalnızca rehberdeki kişileri kabul et</item>
+        <item>Yalnızca beyaz listedekileri kabul et</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+</resources>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bytes">
+        <item quantity="other">B</item>
+        <item quantity="one">B</item>
+    </plurals>
+    <plurals name="kilobytes">
+        <item quantity="other">KB</item>
+        <item quantity="one">KB</item>
+    </plurals>
+    <plurals name="megabytes">
+        <item quantity="other">MB</item>
+        <item quantity="one">MB</item>
+    </plurals>
+    <plurals name="gigabytes">
+        <item quantity="other">GB</item>
+        <item quantity="one">GB</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">1 şarkı</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d albüm</item>
+        <item quantity="one">1 albüm</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip">
+        <item quantity="other">%d şarkı eklendi:</item>
+        <item quantity="one">1 şarkı eklendi:</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">1 şarkı</item>
+    </plurals>
+    <plurals name="Nalbum">
+        <item quantity="other">%d albüm</item>
+        <item quantity="one">1 albüm</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">%d klasör</item>
+        <item quantity="one">1 klasör</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">%d sanatçı</item>
+        <item quantity="one">1 sanatçı</item>
+    </plurals>
+    <plurals name="Nlists">
+        <item quantity="other">%d çalma listesi</item>
+        <item quantity="one">1 çalma listesi</item>
+    </plurals>
+    <plurals name="local_count_songs">
+        <item quantity="other">Toplam: %d şarkı</item>
+        <item quantity="one">Toplam: 1 şarkı</item>
+    </plurals>
+    <plurals name="local_count_playLists">
+        <item quantity="other">Toplam: %d çalma listesi</item>
+        <item quantity="one">Toplam: 1 çalma listesi</item>
+    </plurals>
+    <plurals name="local_count_artists">
+        <item quantity="other">Toplam: %d sanatçı</item>
+        <item quantity="one">Toplam: 1 sanatçı</item>
+    </plurals>
+    <plurals name="local_count_folders">
+        <item quantity="other">Toplam: %d klasör</item>
+        <item quantity="one">Toplam: 1 klasör</item>
+    </plurals>
+    <plurals name="local_count_albums">
+        <item quantity="other">Toplam: %d albüm</item>
+        <item quantity="one">Toplam: 1 albüm</item>
+    </plurals>
+    <plurals name="online_search_result_tip">
+        <item quantity="other">%d albüm</item>
+        <item quantity="one">1 albüm</item>
+    </plurals>
+    <plurals name="local_edit_delete_songs">
+        <item quantity="other">%d şarkı silindi</item>
+        <item quantity="one">1 şarkı silindi</item>
+    </plurals>
+    <plurals name="online_count_songs">
+        <item quantity="other">%d şarkı yüklendi</item>
+        <item quantity="one">1 şarkı yüklendi</item>
+    </plurals>
+    <plurals name="online_count_artists">
+        <item quantity="other">%d sanatçı yüklendi</item>
+        <item quantity="one">1 sanatçı yüklendi</item>
+    </plurals>
+    <plurals name="online_count_albums">
+        <item quantity="other">%d albüm yüklendi</item>
+        <item quantity="one">1 albüm yüklendi</item>
+    </plurals>
+    <plurals name="media_playlist_title_count_songs">
+        <item quantity="other">Toplam %d şarkı</item>
+        <item quantity="one">Toplam 1 şarkı</item>
+    </plurals>
+    <plurals name="local_edit_remove_songs">
+        <item quantity="other">%d şarkı kaldırıldı</item>
+        <item quantity="one">1 şarkı kaldırıldı</item>
+    </plurals>
+    <plurals name="local_edit_selected_songs">
+        <item quantity="other">%d şarkı şeçildi</item>
+        <item quantity="one">1 şarkı şeçildi</item>
+    </plurals>
+    <plurals name="add_songs_to_queue">
+        <item quantity="other">%d şarkı listesine ekledi</item>
+        <item quantity="one">1 şarkı listesine ekledi</item>
+    </plurals>
+    <plurals name="search_result_tip">
+        <item quantity="other">Eşleşen %d öge bulundu</item>
+        <item quantity="one">Eşleşen 1 öge bulundu</item>
+    </plurals>
+    <plurals name="shuffle_all_songs_to_play">
+        <item quantity="other">Tüm şarkıları %d karıştır</item>
+        <item quantity="one">1 şarkı karıştır</item>
+    </plurals>
+    <plurals name="play_all_songs_to_play">
+        <item quantity="other">tüm %d şarkıları çal</item>
+        <item quantity="one">1 şarkıyı çal</item>
+    </plurals>
+    <plurals name="header_shuffle_all_songs_to_play">
+        <item quantity="other">Tümünü karıştır (%d)</item>
+        <item quantity="one">Karıştır (1)</item>
+    </plurals>
+    <plurals name="header_order_all_songs_to_play">
+        <item quantity="other">Tümünü çal (%d)</item>
+        <item quantity="one">Çal (1)</item>
+    </plurals>
+    <plurals name="scan_songs_count">
+        <item quantity="other">%d şarkı bulundu</item>
+        <item quantity="one">1 şarkı bulundu</item>
+    </plurals>
+    <plurals name="media_play_list">
+        <item quantity="other">çalma listesi(%d)</item>
+        <item quantity="one">çalma listesi(1)</item>
+    </plurals>
+    <plurals name="mysong_list_count_songs">
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">1 şarkı</item>
+    </plurals>
+    <plurals name="mysong_onlineoff_count_songs">
+        <item quantity="other">%d şarkı çevrimdışı</item>
+        <item quantity="one">1 şarkı çevrimdışı</item>
+    </plurals>
+    <plurals name="confirm_add">
+        <item quantity="other">Eklenen (%d)</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip_new">
+        <item quantity="other">%d şarkı eklendi:</item>
+        <item quantity="one">1 şarkı:</item>
+    </plurals>
+    <plurals name="local_edit_mode_title_selected">
+        <item quantity="other">%d şarkı seçildi</item>
+        <item quantity="one">1 şarkı seçildi</item>
+    </plurals>
+    <plurals name="timer_activity_minute">
+        <item quantity="other">%d Dakika</item>
+        <item quantity="one">1 Dakika</item>
+    </plurals>
+</resources>

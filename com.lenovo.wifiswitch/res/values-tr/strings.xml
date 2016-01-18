@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">WlanKonumKaydetme</string>
+     <string name="confirm_no">Hayır</string>
+     <string name="confirm_yes">Evet</string>
+     <string name="dialog_text">"Bu konum ap'ye bağlı. WLAN etkinleştirilsin mi?"</string>
+     <string name="dialog_title">Veri Bağlantısı Değiştir</string>
+     <string name="disable_dialog_text">Bu konum bağlı ap konumundan uzak. WLAN devre dışı bırakılsın mı?</string>
+     <string name="disable_dialog_title">"WLAN'ı devre dışı bırak?"</string>
+     <string name="disable_show_dialog">Bana hatırlatma</string>
+     <string name="disable_wifi_hint">"WLAN Kaydı, güç tasarrufu sağlamak için şimdi WLAN'ı kapatıyor"</string>
+     <string name="enable_wifi_hint">WLAN Kaydı, veri akışınızı korumak için şimdi WLAN ağına bağlanıyor</string>
+     <string name="setting_activity">WLAN konum kaydetme</string>
+     <string name="show_dialog">Bana hatırlatma</string>
+     <string name="wifi_auto_disable">Otomatik olarak devre dışı bırak</string>
+     <string name="wifi_auto_enable">Otomatik olarak bağlan</string>
+     <string name="wifi_disable_summary">"Bağlı ap konumu uzak olduğunda WLAN'ı devre dışı bırak"</string>
+     <string name="wifi_disable_text">Uzak konum, açılır hatırlatma</string>
+     <string name="wifi_enable_summary">"Sinyal seviyesi 3 ya da daha yüksek olan ve GRPS verisine sahip bağlı ap konumu girildiğinde, WLAN'ı etkinleştir"</string>
+     <string name="wifi_enable_text">Konum girin, açılır hatırlatma</string>
+     <string name="wifi_popup_0">Bağlı ap kaydediliyor. Bu konum girildiğinde açılır hatırlatma göster</string>
+     <string name="wifi_popup_1">Bağlı ap kaydediliyor. Bu konum girildiğinde otomatik etkinleştir</string>
+     <string name="wifi_popup_2">Bana hatırlatma</string>
+     <string name="wifi_popup_tip">Açılır hatırlatma</string>
+     <string name="wifi_setting_summary">Bağlı WLAN ağı kaydediliyor. Böylece daha sonra bu ağın kapsama alanında 3G/2G GPRS veri hizmeti kullandığınızda bu WLAN ağına bağlanmanız hatırlatılacak veya bu ağa otomatik olarak bağlanılacaktır</string>
+     <string name="wifi_switch_settings_title">Location-based WLAN</string>
+</resources>

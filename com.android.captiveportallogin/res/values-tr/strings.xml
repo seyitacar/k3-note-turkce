@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="action_bar_label">Ağda oturum aç</string>
+     <string name="action_do_not_use_network">Bu ağı kullanma</string>
+     <string name="action_use_network">Bu ağı olduğu gibi kullan</string>
+     <string name="app_name">CaptivePortalLogin</string>
+</resources>

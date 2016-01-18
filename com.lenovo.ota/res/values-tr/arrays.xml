@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="enquire_type">
+        <item>Şimdi güncelle</item>
+        <item>30 dakika içinde güncelle</item>
+        <item>6 saat içinde güncelle</item>
+        <item>3 gün içinde güncelle</item>
+        <item>Asla sorma</item>
+    </string-array>
+    <string-array name="enquire_values">
+        <item>0/0/0</item>
+        <item>1/1/30</item>
+        <item>1/6/60</item>
+        <item>3/24/60</item>
+        <item>360/24/60</item>
+    </string-array>
+</resources>

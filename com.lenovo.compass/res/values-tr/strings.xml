@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="Cancel">İptal</string>
+     <string name="DoNotSHowAgain">Bir Daha Gösterme</string>
+     <string name="Info">Bilgi</string>
+     <string name="Ok">Tamam</string>
+     <string name="Tips">Yakınlarda manyetik parazit olabilir, lütfen telefonu tutup yukarıdaki şekilde gösterildiği gibi \"8\" çizecek şekilde sallayın. Kalibrasyon başarılı olursa bu kutu otomatik olarak kapatılır.</string>
+     <string name="Warn">Yakınlarda manyetik parazit olabilir</string>
+     <string name="app_name">Pusula</string>
+     <string name="calibrate">Kalibrasyon</string>
+     <string name="calibrate_success">Kalibrasyon tamamlandı</string>
+     <string name="cannot_get_location">Konum alınamıyor.</string>
+     <string name="click_to_location">GPS konumunu almak için tıklayın</string>
+     <string name="degree">°</string>
+     <string name="direction_east">E</string>
+     <string name="direction_east_north">NE</string>
+     <string name="direction_east_south">SE</string>
+     <string name="direction_north">N</string>
+     <string name="direction_south">S</string>
+     <string name="direction_west">W</string>
+     <string name="direction_west_north">NW</string>
+     <string name="direction_west_south">SW</string>
+     <string name="ignore">Yoksay</string>
+     <string name="latitude">Enlem</string>
+     <string name="location_east">EL</string>
+     <string name="location_north">NL</string>
+     <string name="location_south">SL</string>
+     <string name="location_west">WL</string>
+     <string name="longitude">Boylam</string>
+     <string name="no_location">--</string>
+     <string name="no_location_server">Konum hizmeti devre dışı</string>
+     <string name="no_warn_later">Bunu bir daha gösterme</string>
+     <string name="start_calibration">Kalibrasyon için telefonu sallayın</string>
+     <string name="warn_message">Geçerli konumun GPS veya ağ konumu üzerinden alınmasına izin verilsin mi?</string>
+</resources>

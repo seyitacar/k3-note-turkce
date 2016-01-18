@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_install_location_entries">
+        <item>Dahili cihaz depolaması</item>
+        <item>Çıkarılabilir SD kart</item>
+        <item>Sistem karar versin</item>
+    </string-array>
+</resources>
