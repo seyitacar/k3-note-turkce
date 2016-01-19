@@ -59,7 +59,7 @@
      <string name="dialpad_pound_number">#</string>
      <string name="dialpad_star_letters"></string>
      <string name="dialpad_star_number">*</string>
-     <string name="duplicate_video_call_not_allowed">Call cannot be added at this time.</string>
+     <string name="duplicate_video_call_not_allowed">Çağrı, şu anda eklenemez.</string>
      <string name="enable_ims_dialog_message">IMS araması devre dışı; etkinleştirmek ister misiniz?</string>
      <string name="error_sdcard_access">SD karta erişilemiyor</string>
      <string name="ext_media_badremoval_notification_title">SD kart beklenmedik biçimde çıkarıldı</string>
@@ -114,7 +114,7 @@ etkinleştirildi"</string>
      <string name="notification_missedCallsTitle">Cevapsız çağrılar</string>
      <string name="outgoing_call_error_limit_exceeded">Arama gönderilmedi, sınır aşıldı.</string>
      <string name="outgoing_call_error_no_phone_number_supplied">Çağrı gönderilmedi, geçerli bir numara girilmedi.</string>
-     <string name="outgoing_call_failed">Call not sent.</string>
+     <string name="outgoing_call_failed">Çağrı gönderilmedi.</string>
      <string name="outgoing_call_not_allowed">Bu kullanıcının acil olmayan telefon çağrıları yapmasına izin verilmiyor</string>
      <string name="redial_for_click">Şimdi otomatik geri çevirmeye tıkla</string>
      <string name="redial_for_title_cancel">Otomatik yeniden çevirme iptal edildi</string>
@@ -137,15 +137,15 @@ etkinleştirildi"</string>
      <string name="str_db_playlist_name">Kayıtlarım</string>
      <string name="telecommAppLabel">Telefon</string>
      <string name="test_account_0_label">Q Mobile</string>
-     <string name="test_account_0_short_description">Account with Q Mobile</string>
-     <string name="test_account_1_label">Market Wireless</string>
-     <string name="test_account_1_short_description">Account with Market Wireless</string>
+     <string name="test_account_0_short_description">Q Mobile ile Hesap</string>
+     <string name="test_account_1_label">Kablosuz Market</string>
+     <string name="test_account_1_short_description">Kablosuz market için hesap</string>
      <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
-     <string name="test_account_2_short_description">Talk to everyone in your Circles!</string>
-     <string name="test_account_3_label">Bay Voice Chat Pro</string>
-     <string name="test_account_3_short_description">Chat with Chat Network users</string>
+     <string name="test_account_2_short_description">Çevrelerinizden herkes konuşun!</string>
+     <string name="test_account_3_label">Bay Sesli Sohbet Pro</string>
+     <string name="test_account_3_short_description">Sohbet Ağ kullanıcıları ile sohbet</string>
      <string name="ui_default_package">com.android.incallui</string>
      <string name="unknown">Bilinmiyor</string>
-     <string name="volte_ss_not_available_tips">To complete the operation, you need to open data connection of %s.</string>
+     <string name="volte_ss_not_available_tips">İşlemi tamamlamak için veri bağlantısını açmanız gerekir %s.</string>
      <string name="volte_ss_not_avaliable_tips">İşlemi tamamlamak için veri bağlantısını açmanız gerekir.</string>
 </resources>
