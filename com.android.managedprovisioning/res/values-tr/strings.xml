@@ -36,11 +36,11 @@
      <string name="managed_provisioning_not_supported_by_launcher">İş profiliniz bu başlatıcı uygulama tarafından desteklenmiyor. Uyumlu bir başlatıcı uygulamaya geçmeniz gerekecek.</string>
      <string name="ok_setup">Tamam</string>
      <string name="pick_launcher">Tamam</string>
-     <string name="profile_owner_cancel_cancel">No</string>
-     <string name="profile_owner_cancel_message">Are you sure you want to stop setting up?</string>
-     <string name="profile_owner_cancel_ok">Yes</string>
-     <string name="profile_owner_cancel_title">Stop setting up?</string>
-     <string name="profile_owner_cancelling">Cancelling...</string>
+     <string name="profile_owner_cancel_cancel">Hayır</string>
+     <string name="profile_owner_cancel_message">Kurulumu durdurmak istediğinizden emin misiniz?</string>
+     <string name="profile_owner_cancel_ok">Evet</string>
+     <string name="profile_owner_cancel_title">Kurulumu durdur</string>
+     <string name="profile_owner_cancelling">Durduruluyor...</string>
      <string name="progress_connect_to_wifi">Kablosuz ağa bağlanıyor...</string>
      <string name="progress_data_process">Kurulum verileri işleniyor...</string>
      <string name="progress_download">Yönetim uygulaması indiriliyor...</string>
