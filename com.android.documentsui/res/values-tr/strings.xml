@@ -21,9 +21,9 @@
      <string name="menu_share">Paylaş</string>
      <string name="menu_sort">Sıralama ölçütü</string>
      <string name="mode_selected_count">%1$d tane seçildi</string>
-     <string name="pref_advanced_devices">Display advanced devices</string>
-     <string name="pref_device_size">Display device size</string>
-     <string name="pref_file_size">Display file size</string>
+     <string name="pref_advanced_devices">Gelişmiş aygıtları görüntüle</string>
+     <string name="pref_device_size">Cihazın ekran boyutu</string>
+     <string name="pref_file_size">Dosyanın ekran boyutu</string>
      <string name="query_error">Dokümanlar sorgulanamadı</string>
      <string name="root_available_bytes">%1$s boş</string>
      <string name="root_recent">En son</string>
