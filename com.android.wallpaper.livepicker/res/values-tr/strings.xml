@@ -2,9 +2,9 @@
 <resources>
      <string name="application_name">Animasyonlu Duvar Kağıdı Seçicisi</string>
      <string name="configure_wallpaper">Ayarlar…</string>
-     <string name="configure_wallpaper_Faile">Failure</string>
-     <string name="configure_wallpaper_ing">Settings…</string>
-     <string name="configure_wallpaper_success">Success</string>
+     <string name="configure_wallpaper_Faile">Hata</string>
+     <string name="configure_wallpaper_ing">Ayarlar…</string>
+     <string name="configure_wallpaper_success">Başarılı</string>
      <string name="live_wallpaper_empty">Animasyonlu duvar kağıdı yok.</string>
      <string name="live_wallpaper_loading">Animasyonlu duvar kağıdı yükleniyor…</string>
      <string name="live_wallpaper_picker_label">Animasyonlu Duvar Kağıtları</string>
