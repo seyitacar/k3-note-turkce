@@ -20,8 +20,8 @@
      <string name="picker_title">Müzik efektleri kontrol paneli</string>
      <string name="pr_dialog_title">Yankı ön ayarı</string>
      <string name="pr_summary">Diğer oda yankısı efektleri</string>
-     <string name="pr_title">Yankı:</string>
-     <string name="presetreverb_name">Önayar Reverb</string>
+     <string name="pr_title">Yankı</string>
+     <string name="presetreverb_name">ÖnayarReverb</string>
      <string name="setup">Kurulum</string>
      <string name="user">Kullanıcı</string>
      <string name="virtualizer_strength">Surround ses</string>
