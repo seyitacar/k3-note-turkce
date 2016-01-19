@@ -15,7 +15,7 @@
      <string name="n_cacrts">%d CA sertifikası</string>
      <string name="name_char_error">Yalnızca harflerden ve rakamlardan oluşan bir ad yazın.</string>
      <string name="name_credential_dialog_title">Sertifikayı adlandırın</string>
-     <string name="name_empty_error">Bir ad yazın.</string>
+     <string name="name_empty_error">Bir ad yazınız.</string>
      <string name="no_cert_file_found">Telefon depolama briminde sertifika bulunamadı.</string>
      <string name="no_cert_to_saved">Yüklenecek sertifika yok.</string>
      <string name="one_cacrt">bir CA sertifikası</string>
@@ -23,11 +23,11 @@
      <string name="one_userkey">bir kullanıcı anahtarı</string>
      <string name="only_primary_user_allowed">Sadece bu cihazın sahibi sertifikaları yükleyebilir.</string>
      <string name="p12_description">PKCS12 anahtar deposundaki sertifikalar.</string>
-     <string name="password_empty_error">Şifreyi yazın.</string>
-     <string name="password_error">Doğru şifreyi yazın.</string>
-     <string name="pick_file_title">Sertifika seçin</string>
+     <string name="password_empty_error">Şifreyi yazınız.</string>
+     <string name="password_error">Doğru şifreyi yazınız.</string>
+     <string name="pick_file_title">Sertifika seçiniz</string>
      <string name="pkcs12_file_password_dialog_title">%s dosyasından ayıkla</string>
-     <string name="pkcs12_password_dialog_title">Sertifikayı çıkart</string>
+     <string name="pkcs12_password_dialog_title">Sertifikayı bul</string>
      <string name="sdcard_not_present">SD kart yok.</string>
      <string name="storage_error">"Sertifika kaydedilemedi. Tekrar denemek için Tamam'a dokunun."</string>
      <string name="unable_to_save_cert">Sertifika kaydedilemedi. Kimlik bilgileri deposu etkinleştirilmemiş veya düzgün bir şekilde başlatılmamış.</string>
