@@ -71,7 +71,7 @@ Buna şimdi ve gelecekte izin vermek istiyor musunuz?"</string>
      <string name="uninstall_update_title">Güncelleme kaldırılsın mı?</string>
      <string name="uninstalling">Kaldırılıyor…</string>
      <string name="unknown">Bilinmiyor</string>
-     <string name="unknown_apps_admin_dlg_text">Your administrator doesn&apos;t allow installation of apps obtained from unknown sources.</string>
+     <string name="unknown_apps_admin_dlg_text">Yöneticiniz bilinmeyen kaynaklardan elde edilen uygulamaların kurulmasına izin vermiyor.</string>
      <string name="unknown_apps_dlg_text">Güvenlik amacıyla, telefonunuz bilinmeyen kaynaklardan alınan uygulamaların yüklenmesini engelleyecek şekilde ayarlandı.</string>
      <string name="unknown_apps_dlg_title">Yükleme engellendi</string>
 </resources>
