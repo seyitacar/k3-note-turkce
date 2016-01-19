@@ -9,7 +9,7 @@ Yedekleme isteğinde siz bulunmadıysanız, işlemin devam etmesine izin vermeyi
      <string name="backup_enc_password_optional">Yedeklenen tüm verileri şifrelemek isterseniz, aşağıya bir şifre girin:</string>
      <string name="backup_enc_password_required">Cihazınız şifrelenmiş olduğundan yedeklemenizi şifrelemeniz gerekmektedir. Lütfen şifreyi aşağıya girin:</string>
      <string name="backup_enc_password_text">Tam yedekleme verilerini şifrelemek için lütfen bir şifre girin. Boş bırakılırsa, mevcut yedekleme şifreniz kullanılır:</string>
-     <string name="current_password_text">Lütfen mevcut yedekleme şifrenizi aşağıya girin:</string>
+     <string name="current_password_text">Lütfen mevcut yedekleme şifrenizi aşağıya girin.</string>
      <string name="deny_backup_button_label">Yedekleme</string>
      <string name="deny_restore_button_label">Geri yükleme</string>
      <string name="device_encryption_backup_text">Lütfen cihazınızı şifrelemek için kullandığınız şifreyi aşağıya girin. Bu şifre aynı zamanda yedekleme arşivini şifrelemek için de kullanılacaktır.</string>
