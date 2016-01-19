@@ -26,7 +26,7 @@
      <string name="SUS_MSG_WARNING_PENDING">Mevcut sürüm için güncelleme yapılıyor!</string>
      <string name="SUS_NEW_VERSION">En Son Sürüm</string>
      <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">İptal</string>
-     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Bu pencere</string>
+     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">Bu pencere</string>
      <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">saniye sonra otomatik olarak saklanacaktır)</string>
      <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Biliyorum</string>
      <string name="SUS_NOTIFICATION_INSTALLAPK">Yüklemek için lütfen dokunun</string>
@@ -43,7 +43,7 @@
      <string name="SUS_UPDATEVERPROMPT_VERNAME">Ad:</string>
      <string name="SUS_UPDATEVERPROMPT_VERSIZE">Boyut:</string>
      <string name="SUS_VERSIONUPDATE">Yeni sürüm algılandı!</string>
-     <string name="a_few_minuts_ago">%1$s minute(s) önce</string>
+     <string name="a_few_minuts_ago">%1$s dakika önce</string>
      <string name="about_card_title">Kişiler Hakkında</string>
      <string name="accessibility_bluetooth_headset_selected">Bluetooth kulaklık seç</string>
      <string name="accessibility_call_muted">Sessiz çağrı.</string>
