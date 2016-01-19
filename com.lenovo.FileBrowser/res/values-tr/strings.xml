@@ -272,7 +272,7 @@ Daha az sayıda dosya aktarmayı seçebilir veya kartta daha fazla alanı boşal
      <string name="File_unzip_path">Çıkartma hedefi</string>
      <string name="File_waiting">Lütfen bekleyin...</string>
      <string name="File_zip">Sıkıştır</string>
-     <string name="File_zip_path">Sekıştırma hedefi</string>
+     <string name="File_zip_path">Sıkıştırma hedefi</string>
      <string name="account_manager">Hesabı yönet</string>
      <string name="app_name">Dosya Tarayıcı</string>
      <string name="cleanmgr_SUS_CANCEL">以后再说</string>
