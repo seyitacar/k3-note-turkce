@@ -173,7 +173,7 @@
      <string name="incall_error_supp_service_transfer">Çağrı aktarılamıyor.</string>
      <string name="incall_error_supp_service_unknown">Desteklenmeyen hizmet.</string>
      <string name="incall_status_dialed_mmi">MMI dizisi başlatılıyor...</string>
-     <string name="incoming_touch_info">Cep hatlı önleme modu etkin. % süreleri eylemi tetiklemek için daha fazla basın</string>
+     <string name="incoming_touch_info">Cep hatlı önleme modu etkin. %s süreleri eylemi tetiklemek için daha fazla basın</string>
      <string name="incoming_via_template">%s adlı sağlayıcı üzerinden gelen çağrı</string>
      <string name="internet_phone">İnternet çağrısı</string>
      <string name="leaveaway_str">"Bırakma modunu başlatma, otomatik cevaplama ve ses kaydı yapma
@@ -192,7 +192,7 @@
      <string name="multi_conference_member_adding">Üye ekleme ...</string>
      <string name="note_app_isnt_exist">Not uygulaması yok!</string>
      <string name="noti_audio_mic">Ses alan mikrofon buradadır</string>
-     <string name="noti_got_it">OK</string>
+     <string name="noti_got_it">TAMAM</string>
      <string name="notification_action_accept">Kabul et</string>
      <string name="notification_action_answer_video">Video</string>
      <string name="notification_action_answer_voice">Ses</string>
