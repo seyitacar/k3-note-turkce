@@ -55,7 +55,7 @@ Telefonu göz hizanızda tutun."</string>
     <string name="license_screen_continue_label">Tamam</string>
     <string name="service_app_name">Güvenilir Yüz Hizmeti</string>
     <string name="service_face_not_found">Yüz bulunamadı</string>
-    <string name="service_not_a_match">Maalesef, sizi tanımıyorum</string>
+    <string name="service_not_a_match">Maalesef, sizi tanıyamıyorum</string>
     <string name="service_liveliness_start">Şimdi göz kırpın</string>
     <string name="service_liveliness_timeout">Göz kırpmanız algılanamadı</string>
     <string name="service_low_ligthing">Işık çok az</string>
