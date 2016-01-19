@@ -13,7 +13,7 @@
      <string name="addConferenceMemeberText">Üye ekle</string>
      <string name="add_conference_member_limit">Bir seferde tek bir numara eklenebilir.</string>
      <string name="add_member_msg">Numara veya ad yazın</string>
-     <string name="add_multi_conference_member_limit">Currently, you can add up to %s members.</string>
+     <string name="add_multi_conference_member_limit">Görüşmeye %s katılımcı ekleyebilirsiniz.</string>
      <string name="add_stranger_dialog_message1">"Numara ekle "</string>
      <string name="add_stranger_dialog_message2">Kişilere?</string>
      <string name="add_stranger_dialog_stranger">Bilinmeyen Numara</string>
