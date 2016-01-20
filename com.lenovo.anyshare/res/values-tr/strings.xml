@@ -107,9 +107,9 @@
      <string name="anyshare_notify_title2">Arka planda çalışıyor</string>
      <string name="anyshare_notify_transfer_ticket">Dosya aktarımı</string>
      <string name="anyshare_pick_content_title">Seçmek için tıkla</string>
-     <string name="anyshare_protect_data_failed">SHAREit does not have permissions to turn off mobile data. Turn off mobile data manually to prevent unauthorized data usage.</string>
-     <string name="anyshare_protect_data_init">Turning off mobile data to prevent unauthorized data usage…</string>
-     <string name="anyshare_protect_data_success">Mobile data turned off successfully.</string>
+     <string name="anyshare_protect_data_failed">ShareIt mobil veri kapatmak için gerekli izinlere sahip değil. Yetkisiz veri kullanımını önlemek için elle mobil veri kapatın.</string>
+     <string name="anyshare_protect_data_init">Yetkisiz veri kullanımını önlemek için mobil veriyi kapatın...</string>
+     <string name="anyshare_protect_data_success">Mobil veri başarıyla kapalı.</string>
      <string name="anyshare_receive_album_error">Alıcı klasörleri alamıyor</string>
      <string name="anyshare_receive_apple_error">Alıcı bu dosya biçimini alamıyor</string>
      <string name="anyshare_receive_apple_info">"Apple ürünlerinde gönderme, etkin noktaya katılmayı gerektirir
@@ -487,7 +487,7 @@ Yüksek hızlı, sıfır trafikli, rahat"</string>
 
  Durdurulsun mu?"</string>
      <string name="clone_progress_finish_receive_dialog_title">Durdurulsun mu?</string>
-     <string name="clone_progress_isrunning">CLONEit running in the background, please exit CLONEit first.</string>
+     <string name="clone_progress_isrunning">CLONEit arka planda çalışıyor, ilk önce CLONEit kapatın lütfen.</string>
      <string name="clone_progress_return_category_dialog_title">Hızlı Seçim moduna dönülsün mü?</string>
      <string name="clone_progress_title_clone_finish">Kopya tamamlandı</string>
      <string name="clone_progress_title_cloning">İçe aktarılıyor</string>
@@ -606,19 +606,19 @@ SHAREit için kök izni iste."</string>
      <string name="content_music_tab_artist">Sanatçı</string>
      <string name="content_music_tab_folder">Klasör</string>
      <string name="cta_agree">Agree and continue</string>
-     <string name="cta_checkbox_tip">Don&apos;t prompt again</string>
-     <string name="cta_experience_plan_msg">Agree to join the user experience plan to help improving the software, which needs to connect internet.</string>
-     <string name="cta_quit">Exit</string>
-     <string name="cta_statement">Welcome to SHAREit</string>
-     <string name="cta_statement1">Dear, SHAREit will use WLAN, Hotspot, Bluetooth, Contacts, MMS, Dialer records, Calendar, and etc. Would you agree?</string>
-     <string name="cta_statement2">2. Turn on WLAN, WLAN hotspot and Bluetooth.</string>
-     <string name="cta_statement3">3. Read and modify contacts, call log and SMS.</string>
+     <string name="cta_checkbox_tip">Don&apos;t tekrar istemi</string>
+     <string name="cta_experience_plan_msg">Internet bağlamak için gereken yazılımı geliştirmeye yardımcı olmak için bir kullanıcı deneyimi planı katılmak için anlaşın.</string>
+     <string name="cta_quit">Çıkış</string>
+     <string name="cta_statement">SHAREit hoşgeldiniz</string>
+     <string name="cta_statement1">Sevgili ShareIt WLAN, Hotspot, Bluetooth, İletişim, MMS, Dialer kayıtları, Takvim, vb size katılıyorum kullanacakmısınız?</string>
+     <string name="cta_statement2">2. WLAN, WLAN hotspot ve Bluetooth'u açın.</string>
+     <string name="cta_statement3">3. Log ve SMS çağrı, okuma ve kişileri değiştirin.</string>
      <string name="cvaa_avatar">%s avatar</string>
-     <string name="cvaa_back">Back</string>
-     <string name="cvaa_clean">Clean</string>
-     <string name="cvaa_help">Help</string>
-     <string name="cvaa_menu">Menu</string>
-     <string name="cvaa_more">More</string>
+     <string name="cvaa_back">Geri</string>
+     <string name="cvaa_clean">Temiz</string>
+     <string name="cvaa_help">Yardım</string>
+     <string name="cvaa_menu">Menü</string>
+     <string name="cvaa_more">Daha</string>
      <string name="express_ap_client_connecting">[\"%s\"] bağlanılıyor</string>
      <string name="express_entity_type">Tür:</string>
      <string name="express_entity_type_app">Uygulama</string>
