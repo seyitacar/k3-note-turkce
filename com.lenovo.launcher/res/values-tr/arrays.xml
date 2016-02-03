@@ -12,15 +12,15 @@
         <item>Küp</item>
         <item>Sinüs Dalgası</item>
         <item>Silindir</item>
-        <item>Downward</item>
-        <item>SLIDEEFFECT_15</item>
-        <item>SLIDEEFFECT_16</item>
-        <item>Whirligig</item>
-        <item>Bounce</item>
-        <item>Flip</item>
-        <item>Roll</item>
-        <item>Shutter</item>
-        <item>Random</item>
+        <item>Aşağıya Doğru</item>
+        <item>Kayma Efekti 1</item>
+        <item>Kayma Efekti 2</item>
+        <item>Topaç</item>
+        <item>Sıçrama</item>
+        <item>Çevirme</item>
+        <item>Rulo</item>
+        <item>Kepenk</item>
+        <item>Rasgele</item>
     </string-array>
     <string-array name="pref_gesture_choices">
         <item>Hiçbiri</item>
@@ -29,7 +29,7 @@
         <item>Bildirim çubuğunu göster</item>
         <item>Simgeyi bul</item>
         <item>Ekranı kilitle</item>
-        <item>Screen Manager</item>
-        <item>Find</item>
+        <item>Ekran Yönetimi</item>
+        <item>Bul</item>
     </string-array>
 </resources>
