@@ -27,7 +27,7 @@
      <string name="callBarringFailMmi">Çağrı Engelleme başarısız.</string>
      <string name="cfServiceNotForwarded">Yönlendirilmedi</string>
      <string name="checkPwdLen">Paroanızın 4-8 haneli olup olmadığını kontrol edin.</string>
-     <string name="close">close application</string>
+     <string name="close">Uygulamayı kapat</string>
      <string name="color_picker_select">-&gt;</string>
      <string name="config_mm_package_name">com.aspire.mm</string>
      <string name="confirm_button_cancel">İptal</string>
@@ -50,9 +50,9 @@
      <string name="confirm_roaming_msg">Bağlanıldı: %1$s.</string>
      <string name="confirm_roaming_title">Dolaşım uyarısı</string>
      <string name="confirm_unlock_msg">Bağlanıldı: %1$s.</string>
-     <string name="confirm_unlock_msg_UIM">To use the UIM card, first unlock it.</string>
+     <string name="confirm_unlock_msg_UIM">UIM kartı kullanmadan önce kilidini açın</string>
      <string name="confirm_unlock_title">PIN Kilidi</string>
-     <string name="confirm_unlock_title_UIM">UIM locked</string>
+     <string name="confirm_unlock_title_UIM">UIM kilitli</string>
      <string name="contact_widget_loading">Yükleniyor…</string>
      <string name="ct_net_name">CTNET</string>
      <string name="ct_wap_name">CTWAP</string>
@@ -71,7 +71,7 @@
      <string name="description_direction_left">Ertelemek için sola kaydırın</string>
      <string name="description_direction_right">Kapatmak için sağa kaydırın</string>
      <string name="description_direction_up">Kapatmak için yukarı kaydırın</string>
-     <string name="drag">drag application window size</string>
+     <string name="drag">Uygulama penceresi boyutunu ayarlayın</string>
      <string name="drm_begin">Başla:</string>
      <string name="drm_can_forward">İletilebilir.</string>
      <string name="drm_can_not_forward">İletilemez.</string>
@@ -116,17 +116,17 @@ Lütfen %d saniye içinde yeniden deneyin."</string>
      <string name="lockscreen_pin_too_many_failed_attempts_dialog_message">"PIN kodunuzu %d kez yanlış girdiniz. 
 
 Lütfen %d saniye içinde yeniden deneyin."</string>
-     <string name="logo">application logo icon</string>
+     <string name="logo">Uygulama logosu</string>
      <string name="low_internal_storage_view_title">Dahili depolama alanı tükenmek üzere</string>
      <string name="low_storage_warning_message">Lütfen boş alan oluşturun aksi halde bazı uygulamalar sistem işlevselliği doğru şekilde çalışmayabilir.</string>
-     <string name="maximum">maximum application</string>
+     <string name="maximum">Maksimum uygulama</string>
      <string name="media_controller_buffering">Arabelleğe alınıyor %d%%...</string>
      <string name="media_controller_connecting">Bağlanıyor...</string>
      <string name="media_controller_live">Canlı akış</string>
      <string name="media_controller_playing">Oynatılıyor</string>
      <string name="media_info_audio_not_supported">Ses çalınamadı.</string>
      <string name="media_info_video_not_supported">Bu video desteklenmiyor.</string>
-     <string name="minimize">minimize application</string>
+     <string name="minimize">Uygulamayı küçült</string>
      <string name="month_day_year_wday">%s %s, %s, %s</string>
      <string name="month_year_day_wday">%s %s %s, %s</string>
      <string name="mw_max_size_string">Maximum %d floating windows</string>
@@ -157,12 +157,12 @@ Lütfen %d saniye içinde yeniden deneyin."</string>
      <string name="permlab_bindTerminal">Bind OMAPI Terminal</string>
      <string name="permlab_receiveCbSms">接收短信广播</string>
      <string name="permlab_systemTerminal">OMAPI System Terminal</string>
-     <string name="permlab_wake_device_sensorhub">telefonu uyandır</string>
+     <string name="permlab_wake_device_sensorhub">Telefonu uyandır</string>
      <string name="pinNotEnabled">Lütfen değiştirmeden mnce PIN kodunu etkinleştirin.</string>
      <string name="press_color_to_apply">Uygulamak için Renge Basın</string>
      <string name="puk1Blocked">PIN bloke edildi.</string>
      <string name="puk2Blocked">PIN2 bloke edildi.</string>
-     <string name="roaming_message">You are currently in the international roaming, mobile data is turned on, please note that local charges.</string>
+     <string name="roaming_message">Ulusal bağlantının içindesiniz, mobil veri açıldı, mobil veri ücretini unutmayın.</string>
      <string name="same_imei">Aynı IMEI</string>
      <string name="save_password_label">Doğrula</string>
      <string name="save_password_message">Tarayıcının bu şifreyi anımsamasını istiyor musunuz?</string>
@@ -172,7 +172,7 @@ Lütfen %d saniye içinde yeniden deneyin."</string>
      <string name="sdcard_default_path_change">Varsayılan yazma diski değişti.</string>
      <string name="sdcard_ready_title">SD kart hazır</string>
      <string name="sdcard_select_default_path">Varsayılan yazma diskini değiştirmek istiyor musunuz?</string>
-     <string name="searching_simcard">Detecting...</string>
+     <string name="searching_simcard">Belirleniyor...</string>
      <string name="serviceClassVideo">Video</string>
      <string name="serviceProvisioned">Servis sağlandı.</string>
      <string name="serviceUnknown">Bağlantı sorunu veya geçersiz MMI kodu.</string>
