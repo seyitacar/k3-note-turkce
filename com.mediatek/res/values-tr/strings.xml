@@ -26,7 +26,7 @@
      <string name="byteShort">B</string>
      <string name="callBarringFailMmi">Çağrı Engelleme başarısız.</string>
      <string name="cfServiceNotForwarded">Yönlendirilmedi</string>
-     <string name="checkPwdLen">Paroanızın 4-8 haneli olup olmadığını kontrol edin.</string>
+     <string name="checkPwdLen">Parolanızın 4-8 haneli olup olmadığını kontrol edin.</string>
      <string name="close">Uygulamayı kapat</string>
      <string name="color_picker_select">-&gt;</string>
      <string name="config_mm_package_name">com.aspire.mm</string>
@@ -39,7 +39,7 @@
      <string name="confirm_button_yes">Evet</string>
      <string name="confirm_flight_mode_msg">Bağlanıldı: %1$s.</string>
      <string name="confirm_flight_mode_radio_msg">Bağlanıldı: %1$s.</string>
-     <string name="confirm_flight_mode_radio_msg_UIM">To use the number, first turn off Airplane mode and turn the UIM on.</string>
+     <string name="confirm_flight_mode_radio_msg_UIM">Numarayı kullanmak için önce uçak modunu kapatın ve UIM modunu açın.</string>
      <string name="confirm_flight_mode_radio_title">Bağlanıldı: %1$s.</string>
      <string name="confirm_flight_mode_radio_title_UIM">Airplane mode on and UIM off</string>
      <string name="confirm_flight_mode_title">Bağlanıldı: %1$s.</string>
