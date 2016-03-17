@@ -41,7 +41,7 @@
      <string name="confirm_flight_mode_radio_msg">Bağlanıldı: %1$s.</string>
      <string name="confirm_flight_mode_radio_msg_UIM">Numarayı kullanmak için önce uçak modunu kapatın ve UIM modunu açın.</string>
      <string name="confirm_flight_mode_radio_title">Bağlanıldı: %1$s.</string>
-     <string name="confirm_flight_mode_radio_title_UIM">Airplane mode on and UIM off</string>
+     <string name="confirm_flight_mode_radio_title_UIM">Uçak modu açık, UIM mod kapalı</string>
      <string name="confirm_flight_mode_title">Bağlanıldı: %1$s.</string>
      <string name="confirm_radio_msg">Bağlanıldı: %1$s.</string>
      <string name="confirm_radio_msg_UIM">To use the number, first turn it on.</string>
@@ -95,7 +95,7 @@
      <string name="drm_use_left">Kalan sayım:</string>
      <string name="fdnFailMmi">FDN Kontrolü başarısız.</string>
      <string name="free_memory_btn">Belleği boşalt</string>
-     <string name="gallery_camera_mutex">Cannot use Gallery,Camera or Video Player at the same time</string>
+     <string name="gallery_camera_mutex">Galeri, Kamera yada Video Oynatıcı aynı anda kullanılamaz</string>
      <string name="gps_time_sync_fail_str">GPS zamanı alınamadı</string>
      <string name="hdmi_audio_output">Ses çıkışı</string>
      <string name="hdmi_audio_output_multi_channel">Çoklu Kanal</string>
@@ -148,7 +148,7 @@ Lütfen %d saniye içinde yeniden deneyin."</string>
      <string name="oper_short_46697">TWN</string>
      <string name="oper_short_99997">AD1</string>
      <string name="oper_short_99999">AD</string>
-     <string name="other_accounts">Other Accounts</string>
+     <string name="other_accounts">Diğer Hesaplar</string>
      <string name="permdesc_bindTerminal">An app with this permission can bind to the System&apos;s OMAPI Terminals. Only SmartcardService should use it.</string>
      <string name="permdesc_receiveCbSms">Uygulamanın Hücre Yayın SMS mesajlarını almasına ve işlemesine izin verir. Kötü niyetli uygulamalar mesajlarınızı izleyebilir veya size göstermeden silebilir.</string>
      <string name="permdesc_receiveDmRegisterSms">Uygulamanın DM Kaydı SMS iletilerini alıp işlem yapmasını sağlar. DM UYGULAMASI dışında Uygulamalar bunu kullanmamalıdır</string>
@@ -158,7 +158,7 @@ Lütfen %d saniye içinde yeniden deneyin."</string>
      <string name="permlab_receiveCbSms">接收短信广播</string>
      <string name="permlab_systemTerminal">OMAPI System Terminal</string>
      <string name="permlab_wake_device_sensorhub">Telefonu uyandır</string>
-     <string name="pinNotEnabled">Lütfen değiştirmeden mnce PIN kodunu etkinleştirin.</string>
+     <string name="pinNotEnabled">Lütfen değiştirmeden önce PIN kodunu etkinleştirin.</string>
      <string name="press_color_to_apply">Uygulamak için Renge Basın</string>
      <string name="puk1Blocked">PIN bloke edildi.</string>
      <string name="puk2Blocked">PIN2 bloke edildi.</string>
@@ -217,8 +217,8 @@ Lütfen %d saniye içinde yeniden deneyin."</string>
      <string name="wifi_display_build_connection">Bağlantı kuruluyor.</string>
      <string name="wifi_display_change_resolution_reminder">Çözünürlüğün değiştirilmesi kablosuz gösterimi otomatik olarak yeniden bağlayacaktır.</string>
      <string name="wifi_display_channel_confliction">Kanal çakışması</string>
-     <string name="wifi_display_confirm_connection">sizinle bağlantı kurmak istiyor.</string>
-     <string name="wifi_display_connected_to_wifi_network">Wi-Fi ağına bağlanıldı%1$s .</string>
+     <string name="wifi_display_confirm_connection">Sizinle bağlantı kurmak istiyor.</string>
+     <string name="wifi_display_connected_to_wifi_network">%1$s Wi-Fi ağına bağlanıldı .</string>
      <string name="wifi_display_connection_is_not_steady">Mevcut kablosuz görüntü bağlantısı kararlı değil.</string>
      <string name="wifi_display_disconnect_then_reconnect">Kablosuz ekran bağlantısı kesildi. Yeniden bağlanmak ister misiniz?</string>
      <string name="wifi_display_disconnected">Kablosuz ekran bağlantısı kesildi.</string>
@@ -232,7 +232,7 @@ Lütfen %d saniye içinde yeniden deneyin."</string>
      <string name="wifi_display_wfd_off_hdmi_on">HDMI açıldığında kablosuz görüntü kapatılacaktır. Devam etmek istiyor musunuz?</string>
      <string name="wifi_display_wifi_ap_affects_quality">Mevcut Wi-Fi AP Kablosuz ekran kalitesini etkileyebilir.</string>
      <string name="wifi_display_wifi_network_cannot_coexist">Geçerli Wi-Fi ağı, yayın ekranı bağlantısıyla aynı anda var olamaz.</string>
-     <string name="wifi_display_wifi_network_disconnected">Wi-Fi ağının bağlantısı %1$s kesildi.</string>
+     <string name="wifi_display_wifi_network_disconnected">%1$s Wi-Fi ağının bağlantısı  kesildi.</string>
      <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Mevcut Wi-Fi Direct bağlantısı kablosuz görüntüleme cihazına bağlandığınızda kesilecektir. Devam etmek istiyor musunuz?</string>
      <string name="wifi_p2p_frequency_conflict_message">Telefon, %1$s cihazına bağlandığında Wi-Fi bağlantısını geçici olarak kesecek (yalnızca geçerli Wi-Fi erişim noktalarının kanal bandı ve kimliği %2$s olarak değiştirilirse)</string>
      <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
