@@ -110,13 +110,13 @@
      <string name="conference_member_join">%s konferansa katıldı.</string>
      <string name="conference_member_leave">%s konferanstan çıktı.</string>
      <string name="contact">Kişiler</string>
-     <string name="contactPhoto">kişi fotoğrafı</string>
+     <string name="contactPhoto">Kişi fotoğrafı</string>
      <string name="custom_message_cancel">İptal</string>
      <string name="custom_message_send">Gönder</string>
      <string name="default_notification_description">Varsayılan ses (%1$s)</string>
      <string name="description">Lenovo PhoneApp Snoopy Teması</string>
      <string name="description_delete_button">Geri tuşu</string>
-     <string name="description_dial_button">çevir</string>
+     <string name="description_dial_button">Çevir</string>
      <string name="description_direction_down">%s için aşağı kaydırın.</string>
      <string name="description_direction_left">%s için sola kaydırın.</string>
      <string name="description_direction_right">%s için sağa kaydırın.</string>
@@ -151,7 +151,7 @@
      <string name="emergency_enable_radio_dialog_retry">Hizmet alanı dışında, tekrar deneniyor...</string>
      <string name="emergency_enable_radio_dialog_title">Acil durum çağrısı</string>
      <string name="error_sdcard_access">SD karta erişilemiyor</string>
-     <string name="goPrivate">özele git</string>
+     <string name="goPrivate">Özele git</string>
      <string name="hint_recording">Kayıt</string>
      <string name="ic_lockscreen_answer">Kabul</string>
      <string name="ic_lockscreen_answer_rx_video">Sadece gelen video görüntüyü kabul et</string>
@@ -179,8 +179,8 @@
      <string name="leaveaway_str">"Bırakma modunu başlatma, otomatik cevaplama ve ses kaydı yapma
  Aramayı etkinleştirmek için tıklayın"</string>
      <string name="lenovo_hotline_number">Lenovo Servis Hattı</string>
-     <string name="lesafe_msg_format_1">numara %s olarak işaretlendi</string>
-     <string name="lesafe_msg_format_2">kişi %s olarak işaretlendi</string>
+     <string name="lesafe_msg_format_1">Numara %s olarak işaretlendi</string>
+     <string name="lesafe_msg_format_2">Kişi %s olarak işaretlendi</string>
      <string name="make_primary">Bu seçimi hatırla</string>
      <string name="manageConferenceLabel">Konferans görüşmesini yönet</string>
      <string name="menu_ect">İleri</string>
@@ -306,9 +306,9 @@
      <string name="ringtone_title">Telefon zil sesi</string>
      <string name="safe_warning">Güvenlik uyarısı</string>
      <string name="sd_not_enough">Yetersiz SD kart alanı</string>
-     <string name="selectContact">kişi seçin</string>
+     <string name="selectContact">Kişi seçin</string>
      <string name="select_account_dialog_title">Hesap Seçin</string>
-     <string name="select_other_account_dialog_title">diğer hesabı seç</string>
+     <string name="select_other_account_dialog_title">Diğer hesabı seç</string>
      <string name="select_other_account_entry_name">Diğer hesap</string>
      <string name="select_phone_account_for_calls">Yapılan aramalar için hesap</string>
      <string name="select_sip_account_dialog_title">Internet araması hesabını seç</string>
@@ -319,7 +319,7 @@
      <string name="sigh_number">Bu numarayı işaretle</string>
      <string name="sigh_number_add_black">Kara listeye ekle</string>
      <string name="sigh_number_cancel">Kaldır</string>
-     <string name="sigh_number_dialog_title">İşaretle %s olarak</string>
+     <string name="sigh_number_dialog_title">%s olarak işaretle </string>
      <string name="sigh_number_no">Kaldır</string>
      <string name="sigh_number_selfdifine">Özel işaretle</string>
      <string name="signnumber_success">İşaretli</string>
@@ -351,7 +351,7 @@
      <string name="string_call">Çağrı</string>
      <string name="sub_1">SIM 1</string>
      <string name="sub_2">SIM 2</string>
-     <string name="suggested">Suggested</string>
+     <string name="suggested">Önerilen</string>
      <string name="ten_min_later">10 dakika sonra</string>
      <string name="unknown">Bilinmiyor</string>
      <string name="unknown_call_session_event">Bilinmeyen çağrı oturum</string>
@@ -359,10 +359,10 @@
      <string name="unknown_num_msg_sms">Bilinmeyen numara. Cevap yapılamıyor</string>
      <string name="vibrate_on_ring_title">Çalarken titret</string>
      <string name="video_call_not_allowed_if_tty_enabled">TTY Modu video görüşmeleri yükseltmek için devre dışı bırakın.</string>
-     <string name="video_quality_high">Yüksek kaliteli video Anahtarı</string>
-     <string name="video_quality_low">Düşük kaliteli video Anahtarı</string>
-     <string name="video_quality_medium">Orta kalitede video Anahtarı</string>
-     <string name="video_quality_unknown">Bilinmeyen kalitede video Anahtarı</string>
+     <string name="video_quality_high">Yüksek kaliteli Video Anahtarı</string>
+     <string name="video_quality_low">Düşük kaliteli Video Anahtarı</string>
+     <string name="video_quality_medium">Orta kaliteli Video Anahtarı</string>
+     <string name="video_quality_unknown">Bilinmeyen kalitede Video Anahtarı</string>
      <string name="video_request">Görüntülü arama isteği alındı</string>
      <string name="vip">VIP</string>
      <string name="vip_msg">VIP Ring aramaları %s saniye sonra açılacak</string>
@@ -402,7 +402,7 @@
      <string name="vt_menu_switch">Kamerayı değiştir</string>
      <string name="vt_network_unreachable">Şebekeye erişilemiyor</string>
      <string name="vt_peer_video_quality">Eş düzey görüntü kalitesi</string>
-     <string name="vt_peer_video_quality_normal">Norma</string>
+     <string name="vt_peer_video_quality_normal">Normal</string>
      <string name="vt_peer_video_quality_sharp">Yüksek</string>
      <string name="vt_pic_replace_local_default">Varsayılan resim</string>
      <string name="vt_pic_replace_local_freezeme">Görüntümü dondur</string>
